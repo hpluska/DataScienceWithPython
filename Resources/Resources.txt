@@ -1,0 +1,21 @@
+https://data6.org/su25/
+
+https://www.data8.org/zero-to-data-8/authoring/intro.html
+
+https://www.data8.org/sp25/
+
+https://grader.datahub.berkeley.edu/
+
+https://drive.google.com/drive/u/0/folders/1MbWvVJWm7gnh5r3tlR8DtpT4z7XUsFnP
+
+https://github.com/hpluska/materials-fds
+
+Cisco Book - old notes are based on this
+
+https://www.netacad.com/launch?id=da0847b7-e6fc-4597-bc31-38ddd6b07a2e&tab=curriculum&view=ee2db600-a5cd-522c-b13d-aeae4c1effaa
+
+good resource maybe
+
+https://hsdatascience.youcubed.org/unit/unit-1/
+
+https://discovery.cs.illinois.edu/learn/Basics-of-Data-Science-with-Python/Experimental-Design-and-Blocking/
