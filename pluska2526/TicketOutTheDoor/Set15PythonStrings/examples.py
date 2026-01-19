@@ -11,7 +11,7 @@ word = "b" + word[1:]
 print(word)
 new_word = word[-1] + word[1:-1] + word[0]
 
-print(new_word)
+print("new_word",new_word)
 
 favorite_fruit = "blueberry"
 counter = 0
@@ -23,7 +23,7 @@ print(counter)
 def common_letters(string_one, string_two):
   common = []
   for l in string_one:
-    if(l in string_two and not l in common):
+    if((l in string_two) and not (l in common)):
       common.append(l)
   return common
 
