@@ -19,3 +19,9 @@ good resource maybe
 https://hsdatascience.youcubed.org/unit/unit-1/
 
 https://discovery.cs.illinois.edu/learn/Basics-of-Data-Science-with-Python/Experimental-Design-and-Blocking/
+
+https://www.reddit.com/r/Python/comments/zu7vqp/python_data_science_december_completed_24_data/
+
+https://www.projectpro.io/article/python-projects-for-data-science/462
+
+https://projects.datacamp.com/projects/1593
