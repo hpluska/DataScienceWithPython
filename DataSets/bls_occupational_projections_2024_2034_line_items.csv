@@ -1,0 +1,833 @@
+occupation,soc_code,occupation_type,employment_2024_thousands,employment_2034_thousands,employment_change_thousands,employment_change_percent,annual_openings_thousands,median_wage_2024,education_entry,work_experience,on_the_job_training
+      Chief executives,11-1011,Line item,309.4,322.7,13.3,4.3,22.2,206420,Bachelor's degree,5 years or more,
+      General and operations managers,11-1021,Line item,3712.9,3876.8,164,4.4,308.7,102950,Bachelor's degree,5 years or more,
+      Legislators,11-1031,Line item,27.7,28.6,0.9,3.4,2.2,44810,Bachelor's degree,Less than 5 years,
+      Advertising and promotions managers,Nov-11,Line item,27,26.4,-0.6,-2.2,2.1,126960,Bachelor's degree,Less than 5 years,
+        Marketing managers,Nov-21,Line item,407,433.7,26.7,6.6,34.3,161030,Bachelor's degree,5 years or more,
+        Sales managers,Nov-22,Line item,619.5,648.5,29,4.7,49,138060,Bachelor's degree,Less than 5 years,
+        Public relations managers,Nov-32,Line item,83.2,87.3,4.1,5,6.6,138520,Bachelor's degree,5 years or more,
+        Fundraising managers,Nov-33,Line item,45.7,47.6,1.9,4.2,3.6,123480,Bachelor's degree,5 years or more,
+        Administrative services managers,Nov-12,Line item,271.2,283.8,12.6,4.6,23.2,108390,Bachelor's degree,Less than 5 years,
+        Facilities managers,Nov-13,Line item,151.4,157.1,5.7,3.8,13.2,104690,Bachelor's degree,Less than 5 years,
+      Computer and information systems managers,Nov-21,Line item,667.1,768.7,101.6,15.2,55.6,171200,Bachelor's degree,5 years or more,
+      Financial managers,Nov-31,Line item,868.6,997.4,128.8,14.8,74.6,161700,Bachelor's degree,5 years or more,
+      Industrial production managers,Nov-51,Line item,241.9,246.5,4.6,1.9,17.1,121440,Bachelor's degree,5 years or more,
+      Purchasing managers,Nov-61,Line item,83.5,86.1,2.6,3.1,6.4,139510,Bachelor's degree,5 years or more,
+"      Transportation, storage, and distribution managers",Nov-71,Line item,216.7,229.8,13.1,6.1,18.5,102010,High school diploma or equivalent,5 years or more,
+      Compensation and benefits managers,Nov-11,Line item,20.9,20.9,0,0.2,1.5,140360,Bachelor's degree,5 years or more,
+      Human resources managers,Nov-21,Line item,221.9,233,11.1,5,17.9,140030,Bachelor's degree,5 years or more,
+      Training and development managers,Nov-31,Line item,46.4,49.2,2.7,5.8,3.8,127090,Bachelor's degree,5 years or more,
+"      Farmers, ranchers, and other agricultural managers",Nov-13,Line item,836.1,825,-11.1,-1.3,85.5,87980,High school diploma or equivalent,5 years or more,
+      Construction managers,Nov-21,Line item,550.3,598.4,48.1,8.7,46.8,106980,Bachelor's degree,,Moderate-term on-the-job training
+"        Education and childcare administrators, preschool and daycare",Nov-31,Line item,90.2,87.9,-2.3,-2.5,5.5,56270,Bachelor's degree,Less than 5 years,
+"        Education administrators, kindergarten through secondary",Nov-32,Line item,333.3,328.1,-5.1,-1.5,20.8,104070,Master's degree,5 years or more,
+"        Education administrators, postsecondary",Nov-33,Line item,226.6,230.5,4,1.7,15.1,103960,Master's degree,Less than 5 years,
+"        Education administrators, all other",Nov-39,Line item,60.2,61.7,1.5,2.5,4.1,89040,Bachelor's degree,Less than 5 years,
+      Architectural and engineering managers,Nov-41,Line item,212.5,220.5,8,3.8,14.5,167740,Bachelor's degree,5 years or more,
+      Food service managers,Nov-51,Line item,352.8,375.3,22.6,6.4,42,65310,High school diploma or equivalent,Less than 5 years,Short-term on-the-job training
+        Gambling managers,Nov-71,Line item,5.1,5.2,0.1,1.2,0.6,85580,High school diploma or equivalent,Less than 5 years,
+"        Entertainment and recreation managers, except gambling",Nov-72,Line item,43.2,46.5,3.3,7.7,5.5,77180,Bachelor's degree,Less than 5 years,
+      Lodging managers,Nov-81,Line item,52,53.8,1.8,3.4,5.4,68130,High school diploma or equivalent,Less than 5 years,
+      Medical and health services managers,Nov-11,Line item,616.2,759.1,142.9,23.2,62.1,117960,Bachelor's degree,Less than 5 years,
+      Natural sciences managers,Nov-21,Line item,104.3,108.2,3.9,3.7,8.5,161180,Bachelor's degree,5 years or more,
+      Postmasters and mail superintendents,Nov-31,Line item,13.1,12.7,-0.5,-3.5,0.9,92730,High school diploma or equivalent,Less than 5 years,Moderate-term on-the-job training
+"      Property, real estate, and community association managers",Nov-41,Line item,466.1,483.1,17,3.6,39,66700,High school diploma or equivalent,Less than 5 years,Short-term on-the-job training
+      Social and community service managers,Nov-51,Line item,219.8,233.9,14.1,6.4,18.6,78240,Bachelor's degree,Less than 5 years,
+      Emergency management directors,Nov-61,Line item,13.2,13.6,0.4,3,1,86130,Bachelor's degree,5 years or more,
+        Funeral home managers,Nov-71,Line item,32.1,33.4,1.3,4.1,2.6,76830,Associate's degree,Less than 5 years,
+"        Personal service managers, all other",Nov-79,Line item,25.1,26.7,1.6,6.5,2.1,61340,High school diploma or equivalent,Less than 5 years,
+"      Managers, all other",Nov-99,Line item,1333.7,1393.5,59.8,4.5,106.7,136550,Bachelor's degree,Less than 5 years,
+"      Agents and business managers of artists, performers, and athletes",13-1011,Line item,21.4,23.2,1.9,8.7,2.2,96310,Bachelor's degree,Less than 5 years,
+      Buyers and purchasing agents,13-1020,Line item,522.2,552.3,30.1,5.8,52.2,75650,Bachelor's degree,,Moderate-term on-the-job training
+"        Claims adjusters, examiners, and investigators",13-1031,Line item,356.1,337.9,-18.2,-5.1,21.1,76790,High school diploma or equivalent,,Long-term on-the-job training
+"        Insurance appraisers, auto damage",13-1032,Line item,9.2,8.4,-0.8,-8.2,0.5,76650,Postsecondary nondegree award,,Moderate-term on-the-job training
+      Compliance officers,13-1041,Line item,418,430.3,12.3,3,33.3,78420,Bachelor's degree,,Moderate-term on-the-job training
+      Cost estimators,13-1051,Line item,221.4,212.1,-9.3,-4.2,16.9,77070,Bachelor's degree,,Moderate-term on-the-job training
+        Human resources specialists,13-1071,Line item,944.3,1002.7,58.4,6.2,81.8,72910,Bachelor's degree,,
+        Farm labor contractors,13-1074,Line item,3.9,4.2,0.2,6,0.3,48690,No formal educational credential,Less than 5 years,Short-term on-the-job training
+        Labor relations specialists,13-1075,Line item,65.4,65.4,-0.1,-0.1,5.1,93500,Bachelor's degree,Less than 5 years,
+        Logisticians,13-1081,Line item,241,281.3,40.3,16.7,26.4,80880,Bachelor's degree,,
+        Project management specialists,13-1082,Line item,1046.3,1105,58.7,5.6,78.2,100750,Bachelor's degree,,
+      Management analysts,13-1111,Line item,1075.1,1169.7,94.5,8.8,98.1,101190,Bachelor's degree,Less than 5 years,
+"      Meeting, convention, and event planners",13-1121,Line item,155.8,163.3,7.5,4.8,15.5,59440,Bachelor's degree,,
+      Fundraisers,13-1131,Line item,134.4,140.2,5.8,4.3,10.2,66490,Bachelor's degree,,
+"      Compensation, benefits, and job analysis specialists",13-1141,Line item,107,112.7,5.6,5.3,8.5,77020,Bachelor's degree,Less than 5 years,
+      Training and development specialists,13-1151,Line item,452.3,501,48.7,10.8,43.9,65850,Bachelor's degree,Less than 5 years,
+      Market research analysts and marketing specialists,13-1161,Line item,941.7,1004.7,63,6.7,87.2,76950,Bachelor's degree,,
+"      Business operations specialists, all other",13-1199,Line item,1205.7,1242,36.3,3,108.2,81270,Bachelor's degree,,
+      Accountants and auditors,13-2011,Line item,1579.8,1652.6,72.8,4.6,124.2,81680,Bachelor's degree,,
+      Property appraisers and assessors,13-2020,Line item,77.3,80.2,2.9,3.8,6.3,65420,Bachelor's degree,,Long-term on-the-job training
+      Budget analysts,13-2031,Line item,50.4,51,0.5,1,3.1,87930,Bachelor's degree,,
+      Credit analysts,13-2041,Line item,67.8,64.8,-3,-4.4,3.7,80970,Bachelor's degree,,
+        Financial and investment analysts,13-2051,Line item,368.5,389.6,21.1,5.7,25.1,101350,Bachelor's degree,,
+        Personal financial advisors,13-2052,Line item,326,357.2,31.2,9.6,24.1,102140,Bachelor's degree,,Long-term on-the-job training
+        Insurance underwriters,13-2053,Line item,127,123.7,-3.3,-2.6,8.2,79880,Bachelor's degree,,Moderate-term on-the-job training
+        Financial risk specialists,13-2054,Line item,60.5,64.4,3.9,6.5,4.8,106000,Bachelor's degree,,
+      Financial examiners,13-2061,Line item,65.1,77.2,12.1,18.5,5.7,90400,Bachelor's degree,,Long-term on-the-job training
+        Credit counselors,13-2071,Line item,31.8,32.9,1.1,3.3,2.2,50480,Bachelor's degree,,Moderate-term on-the-job training
+        Loan officers,13-2072,Line item,301.4,306.5,5,1.7,20.3,74180,Bachelor's degree,Less than 5 years,Moderate-term on-the-job training
+"        Tax examiners and collectors, and revenue agents",13-2081,Line item,57.6,56.5,-1,-1.8,4.3,59740,Bachelor's degree,,Moderate-term on-the-job training
+        Tax preparers,13-2082,Line item,90.6,94.7,4.1,4.5,10.4,50560,High school diploma or equivalent,,Moderate-term on-the-job training
+"      Financial specialists, all other",13-2099,Line item,137.1,141.4,4.3,3.1,10.3,80190,Bachelor's degree,,
+        Computer systems analysts,15-1211,Line item,521.1,566.5,45.5,8.7,34.2,103790,Bachelor's degree,,
+        Information security analysts,15-1212,Line item,182.8,234.9,52.1,28.5,16,124910,Bachelor's degree,Less than 5 years,
+      Computer and information research scientists,15-1221,Line item,40.3,48.3,7.9,19.7,3.2,140910,Master's degree,,
+        Computer network support specialists,15-1231,Line item,152.7,155.5,2.8,1.8,9.6,73340,Associate's degree,,Moderate-term on-the-job training
+        Computer user support specialists,15-1232,Line item,729.5,702.5,-27,-3.7,40.8,60340,"Some college, no degree",,Moderate-term on-the-job training
+        Computer network architects,15-1241,Line item,179.2,200.6,21.4,11.9,11.2,130390,Bachelor's degree,5 years or more,
+        Database administrators,15-1242,Line item,78,77.5,-0.5,-0.7,3.8,104620,Bachelor's degree,,
+        Database architects,15-1243,Line item,66.9,72.7,5.8,8.7,4,135980,Bachelor's degree,Less than 5 years,
+        Network and computer systems administrators,15-1244,Line item,331.5,317.7,-13.8,-4.2,14.3,96800,Bachelor's degree,,
+        Computer programmers,15-1251,Line item,121.2,113.9,-7.2,-6,5.5,98670,Bachelor's degree,,
+        Software developers,15-1252,Line item,1693.8,1961.4,267.7,15.8,115.2,133080,Bachelor's degree,,
+        Software quality assurance analysts and testers,15-1253,Line item,201.7,221.9,20.2,10,14,102610,Bachelor's degree,,
+        Web developers,15-1254,Line item,86,92.5,6.5,7.5,5.4,90930,Bachelor's degree,,
+        Web and digital interface designers,15-1255,Line item,128.9,137.9,9,7,9.1,98090,Bachelor's degree,,
+"      Computer occupations, all other",15-1299,Line item,472,510.5,38.5,8.2,31.3,108970,Bachelor's degree,,
+      Actuaries,15-2011,Line item,33.6,40.9,7.3,21.8,2.4,125770,Bachelor's degree,,Long-term on-the-job training
+      Mathematicians,15-2021,Line item,2.4,2.4,0,-0.7,0.1,121680,Master's degree,,
+      Operations research analysts,15-2031,Line item,112.1,136.2,24.1,21.5,9.6,91290,Bachelor's degree,,
+      Statisticians,15-2041,Line item,32.2,34.9,2.7,8.5,2,103300,Master's degree,,
+      Data scientists,15-2051,Line item,245.9,328.3,82.5,33.5,23.4,112590,Bachelor's degree,,
+"      Mathematical science occupations, all other",15-2099,Line item,5,5.2,0.2,4,0.3,71490,Bachelor's degree,,
+"        Architects, except landscape and naval",17-1011,Line item,123.6,128.4,4.8,3.9,7.8,96690,Bachelor's degree,,Internship/residency
+        Landscape architects,17-1012,Line item,21.8,22.6,0.8,3.5,1.7,79660,Bachelor's degree,,Internship/residency
+        Cartographers and photogrammetrists,17-1021,Line item,13.4,14.3,0.9,6.4,1,78380,Bachelor's degree,,
+        Surveyors,17-1022,Line item,56.1,58.6,2.5,4.4,3.9,72740,Bachelor's degree,,Internship/residency
+      Aerospace engineers,17-2011,Line item,71.6,75.9,4.4,6.1,4.5,134830,Bachelor's degree,,
+      Agricultural engineers,17-2021,Line item,1.7,1.8,0.1,5.9,0.1,84630,Bachelor's degree,,
+      Bioengineers and biomedical engineers,17-2031,Line item,22.2,23.3,1.1,5.2,1.3,106950,Bachelor's degree,,
+      Chemical engineers,17-2041,Line item,21.6,22.1,0.6,2.6,1.1,121860,Bachelor's degree,,
+      Civil engineers,17-2051,Line item,368.9,387.5,18.5,5,23.6,99590,Bachelor's degree,,
+      Computer hardware engineers,17-2061,Line item,76.8,82.4,5.6,7.3,4.7,155020,Bachelor's degree,,
+        Electrical engineers,17-2071,Line item,192,205.7,13.8,7.2,11.7,111910,Bachelor's degree,,
+"        Electronics engineers, except computer",17-2072,Line item,95.9,101.8,6,6.2,5.7,127590,Bachelor's degree,,
+      Environmental engineers,17-2081,Line item,39.4,41,1.5,3.9,3,104170,Bachelor's degree,,
+"        Health and safety engineers, except mining safety engineers and inspectors",17-2111,Line item,23.8,24.9,1.1,4.4,1.5,109660,Bachelor's degree,,
+        Industrial engineers,17-2112,Line item,351.1,389.6,38.5,11,25.2,101140,Bachelor's degree,,
+      Marine engineers and naval architects,17-2121,Line item,8.5,9,0.5,5.8,0.6,105670,Bachelor's degree,,
+      Materials engineers,17-2131,Line item,23,24.3,1.3,5.7,1.5,108310,Bachelor's degree,,
+      Mechanical engineers,17-2141,Line item,293.1,319.6,26.5,9.1,18.1,102320,Bachelor's degree,,
+"      Mining and geological engineers, including mining safety engineers",17-2151,Line item,7,7,0,0.7,0.4,101020,Bachelor's degree,,
+      Nuclear engineers,17-2161,Line item,15.4,15.3,-0.2,-1.1,0.8,127520,Bachelor's degree,,
+      Petroleum engineers,17-2171,Line item,19.6,19.8,0.2,1.3,1.2,141280,Bachelor's degree,,
+"      Engineers, all other",17-2199,Line item,158.8,162.1,3.3,2.1,9.3,117750,Bachelor's degree,,
+        Architectural and civil drafters,17-3011,Line item,110.5,115.1,4.6,4.1,10,64280,Associate's degree,,
+        Electrical and electronics drafters,17-3012,Line item,21.6,20.4,-1.2,-5.6,1.7,73720,Associate's degree,,
+        Mechanical drafters,17-3013,Line item,42.9,40.1,-2.8,-6.5,3.3,68510,Associate's degree,,
+"        Drafters, all other",17-3019,Line item,17.1,15.9,-1.2,-6.9,1.3,62010,Associate's degree,,
+        Aerospace engineering and operations technologists and technicians,17-3021,Line item,9.3,10.1,0.8,8.1,0.9,79830,Associate's degree,,
+        Civil engineering technologists and technicians,17-3022,Line item,64.9,66.2,1.4,2.1,5.5,64200,Associate's degree,,
+        Electrical and electronic engineering technologists and technicians,17-3023,Line item,93.7,94.3,0.6,0.6,8.4,77180,Associate's degree,,
+        Electro-mechanical and mechatronics technologists and technicians,17-3024,Line item,15,15.1,0.2,1.1,1.3,70760,Associate's degree,,
+        Environmental engineering technologists and technicians,17-3025,Line item,12.9,13,0.1,1.2,1.1,58890,Associate's degree,,
+        Industrial engineering technologists and technicians,17-3026,Line item,74.6,75.9,1.3,1.7,6.3,64790,Associate's degree,,
+        Mechanical engineering technologists and technicians,17-3027,Line item,38.3,38.3,0,0,3.2,68730,Associate's degree,,
+        Calibration technologists and technicians,17-3028,Line item,15.8,16.5,0.7,4.7,1.4,65040,Associate's degree,,
+"        Engineering technologists and technicians, except drafters, all other",17-3029,Line item,67.3,68.3,1,1.5,5.7,77390,Associate's degree,,
+      Surveying and mapping technicians,17-3031,Line item,59.4,62.1,2.7,4.5,7.6,51940,High school diploma or equivalent,,Moderate-term on-the-job training
+        Animal scientists,19-1011,Line item,2.8,2.9,0.2,5.8,0.2,79120,Bachelor's degree,,
+        Food scientists and technologists,19-1012,Line item,15.2,16.2,1,6.5,1.2,85310,Bachelor's degree,,
+        Soil and plant scientists,19-1013,Line item,20.7,21.8,1.1,5.4,1.7,71410,Bachelor's degree,,
+        Biochemists and biophysicists,19-1021,Line item,35.6,37.6,2.1,5.8,2.9,103650,Doctoral or professional degree,,
+        Microbiologists,19-1022,Line item,20.7,21.6,0.8,4.1,1.7,87330,Bachelor's degree,,
+        Zoologists and wildlife biologists,19-1023,Line item,18.2,18.5,0.3,1.6,1.4,72860,Bachelor's degree,,
+"        Biological scientists, all other",19-1029,Line item,63.7,64.5,0.8,1.2,4.8,93330,Bachelor's degree,,
+        Conservation scientists,19-1031,Line item,28.5,29.5,1,3.4,2.5,67950,Bachelor's degree,,
+        Foresters,19-1032,Line item,13.8,14,0.2,1.2,1.1,70660,Bachelor's degree,,
+        Epidemiologists,19-1041,Line item,12.3,14.3,2,16.2,0.8,83980,Master's degree,,
+"        Medical scientists, except epidemiologists",19-1042,Line item,165.3,179.6,14.3,8.7,9.6,100590,Doctoral or professional degree,,
+"      Life scientists, all other",19-1099,Line item,7.8,8.1,0.3,3.7,0.4,87800,Bachelor's degree,,
+        Astronomers,19-2011,Line item,1.8,1.8,0,2.2,0.1,132170,Doctoral or professional degree,,
+        Physicists,19-2012,Line item,24.6,25.6,1,4,1.7,166290,Doctoral or professional degree,,
+      Atmospheric and space scientists,19-2021,Line item,9.4,9.5,0.1,0.7,0.7,97450,Bachelor's degree,,
+        Chemists,19-2031,Line item,86.8,91,4.3,4.9,6.3,84150,Bachelor's degree,,
+        Materials scientists,19-2032,Line item,8.7,9.1,0.4,4.9,0.6,104160,Bachelor's degree,,
+"        Environmental scientists and specialists, including health",19-2041,Line item,90.3,94.3,4,4.4,8.5,80060,Bachelor's degree,,
+"        Geoscientists, except hydrologists and geographers",19-2042,Line item,25.1,26,0.8,3.2,2,99240,Bachelor's degree,,
+        Hydrologists,19-2043,Line item,6.3,6.3,0,-0.1,0.5,92060,Bachelor's degree,,
+"      Physical scientists, all other",19-2099,Line item,31.9,32.1,0.2,0.6,2,117960,Bachelor's degree,,
+      Economists,19-3011,Line item,17.6,17.8,0.2,1.2,0.9,115440,Master's degree,,
+      Survey researchers,19-3022,Line item,8.8,8.3,-0.5,-5.2,0.7,63380,Master's degree,,
+        Industrial-organizational psychologists,19-3032,Line item,5.6,5.9,0.3,6.3,0.4,109840,Master's degree,,Internship/residency
+        Clinical and counseling psychologists,19-3033,Line item,76.3,84.8,8.5,11.2,4.8,95830,Doctoral or professional degree,,Internship/residency
+        School psychologists,19-3034,Line item,67.2,67.7,0.5,0.7,3.8,86930,Master's degree,,Internship/residency
+"        Psychologists, all other",19-3039,Line item,55.3,57.7,2.4,4.3,3.9,117580,Master's degree,,Internship/residency
+      Sociologists,19-3041,Line item,3.4,3.6,0.1,3.6,0.3,101690,Master's degree,,
+      Urban and regional planners,19-3051,Line item,44.7,46.2,1.5,3.4,3.4,83720,Master's degree,,
+        Anthropologists and archeologists,19-3091,Line item,8.8,9.2,0.3,3.7,0.8,64910,Master's degree,,
+        Geographers,19-3092,Line item,1.5,1.5,0,-3.1,0.1,97200,Bachelor's degree,,
+        Historians,19-3093,Line item,3.4,3.5,0.1,2.2,0.3,74050,Master's degree,,
+        Political scientists,19-3094,Line item,6.5,6.3,-0.2,-3.1,0.5,139380,Master's degree,,
+"        Social scientists and related workers, all other",19-3099,Line item,40.8,40.1,-0.7,-1.7,3.2,100340,Bachelor's degree,,
+        Agricultural technicians,19-4012,Line item,18.6,19.4,0.8,4.3,2.9,46790,Associate's degree,,Moderate-term on-the-job training
+        Food science technicians,19-4013,Line item,20.4,21.3,1,4.8,3.2,49430,Associate's degree,,Moderate-term on-the-job training
+      Biological technicians,19-4021,Line item,82.7,85.6,2.9,3.5,9.1,52000,Bachelor's degree,,
+      Chemical technicians,19-4031,Line item,57,59,2.1,3.7,6.7,57790,Associate's degree,,Moderate-term on-the-job training
+"        Environmental science and protection technicians, including health",19-4042,Line item,40.4,42.1,1.6,4,5.6,49490,Associate's degree,,
+"        Geological technicians, except hydrologic technicians",19-4043,Line item,9.8,10,0.1,1.5,1.3,48390,Associate's degree,,Moderate-term on-the-job training
+        Hydrologic technicians,19-4044,Line item,3.1,3,-0.1,-2.1,0.4,58570,Associate's degree,,Moderate-term on-the-job training
+      Nuclear technicians,19-4051,Line item,6,5.5,-0.5,-7.7,0.7,104240,Associate's degree,,Moderate-term on-the-job training
+      Social science research assistants,19-4061,Line item,40.6,42.3,1.8,4.4,5.2,58040,Bachelor's degree,,
+      Forest and conservation technicians,19-4071,Line item,33.8,32.7,-1.1,-3.2,3.9,54310,Associate's degree,,
+        Forensic science technicians,19-4092,Line item,20.7,23.3,2.6,12.8,2.9,67440,Bachelor's degree,,Moderate-term on-the-job training
+"        Life, physical, and social science technicians, all other",19-4099,Line item,83.2,86.2,2.9,3.5,10.6,60130,Associate's degree,,
+      Occupational health and safety specialists,19-5011,Line item,131.9,148.4,16.5,12.5,14.9,83910,Bachelor's degree,,
+      Occupational health and safety technicians,19-5012,Line item,31.9,34.6,2.7,8.5,3.4,58440,High school diploma or equivalent,,Moderate-term on-the-job training
+"        Educational, guidance, and career counselors and advisors",21-1012,Line item,376.3,389.6,13.3,3.5,31,65140,Master's degree,,
+        Marriage and family therapists,21-1013,Line item,77.8,87.7,9.8,12.6,7.7,63780,Master's degree,,Internship/residency
+        Rehabilitation counselors,21-1015,Line item,91.9,93.2,1.3,1.4,10,46110,Master's degree,,
+"        Substance abuse, behavioral disorder, and mental health counselors",21-1018,Line item,483.5,564.6,81,16.8,48.3,59190,Master's degree,,Internship/residency
+"        Counselors, all other",21-1019,Line item,69.1,77.8,8.7,12.6,7.4,49830,Master's degree,,
+"        Child, family, and school social workers",21-1021,Line item,399.9,413.3,13.4,3.4,35.1,58570,Bachelor's degree,,
+        Healthcare social workers,21-1022,Line item,193.2,208.1,14.8,7.7,18.4,68090,Master's degree,,Internship/residency
+        Mental health and substance abuse social workers,21-1023,Line item,136.8,150.1,13.3,9.7,13.5,60060,Master's degree,,Internship/residency
+"        Social workers, all other",21-1029,Line item,81,84.1,3.1,3.9,7,69480,Bachelor's degree,,
+        Health education specialists,21-1091,Line item,71.8,75,3.2,4.5,7.9,63000,Bachelor's degree,,
+        Probation officers and correctional treatment specialists,21-1092,Line item,92.3,94.8,2.4,2.6,7.9,64520,Bachelor's degree,,Moderate-term on-the-job training
+        Social and human service assistants,21-1093,Line item,449.6,478.5,28.9,6.4,50.6,45120,High school diploma or equivalent,,Short-term on-the-job training
+        Community health workers,21-1094,Line item,65.1,72.5,7.4,11.3,7.8,51030,High school diploma or equivalent,,Short-term on-the-job training
+"        Community and social service specialists, all other",21-1099,Line item,119.2,124.7,5.5,4.6,13.1,54940,Bachelor's degree,,
+      Clergy,21-2011,Line item,262,264.6,2.6,1,23,60820,Bachelor's degree,,Moderate-term on-the-job training
+"      Directors, religious activities and education",21-2021,Line item,138.9,141.8,2.9,2.1,13.8,54840,Bachelor's degree,Less than 5 years,
+"      Religious workers, all other",21-2099,Line item,88.4,89,0.6,0.6,11.1,45120,Bachelor's degree,,
+        Lawyers,23-1011,Line item,864.8,900.7,35.9,4.1,31.5,151160,Doctoral or professional degree,,
+        Judicial law clerks,23-1012,Line item,14.5,14.9,0.4,2.5,1,60400,Doctoral or professional degree,,
+"        Administrative law judges, adjudicators, and hearing officers",23-1021,Line item,17.5,17.4,-0.1,-0.7,0.5,115230,Doctoral or professional degree,5 years or more,Short-term on-the-job training
+"        Arbitrators, mediators, and conciliators",23-1022,Line item,9.1,9.5,0.4,4.3,0.3,67710,Bachelor's degree,Less than 5 years,Moderate-term on-the-job training
+"        Judges, magistrate judges, and magistrates",23-1023,Line item,27.3,28,0.7,2.5,0.9,156210,Doctoral or professional degree,5 years or more,Short-term on-the-job training
+      Paralegals and legal assistants,23-2011,Line item,376.2,376.8,0.6,0.2,39.3,61010,Associate's degree,,
+"        Title examiners, abstractors, and searchers",23-2093,Line item,57.4,58.5,1.1,2,5.4,54980,High school diploma or equivalent,,Moderate-term on-the-job training
+"        Legal support workers, all other",23-2099,Line item,51.3,50.7,-0.6,-1.2,4.7,68760,Associate's degree,,
+"      Business teachers, postsecondary",25-1011,Line item,103.1,109,5.8,5.7,8.1,97270,Doctoral or professional degree,,
+"        Computer science teachers, postsecondary",25-1021,Line item,44.8,47.2,2.4,5.3,3.5,96690,Doctoral or professional degree,,
+"        Mathematical science teachers, postsecondary",25-1022,Line item,58.9,60.2,1.3,2.3,4.4,79350,Doctoral or professional degree,,
+"        Architecture teachers, postsecondary",25-1031,Line item,11.6,11.9,0.2,2,0.9,101480,Doctoral or professional degree,,
+"        Engineering teachers, postsecondary",25-1032,Line item,50.3,54.4,4.1,8.1,4.1,106120,Doctoral or professional degree,,
+"        Agricultural sciences teachers, postsecondary",25-1041,Line item,10.7,11.2,0.4,4.1,0.8,86350,Doctoral or professional degree,,
+"        Biological science teachers, postsecondary",25-1042,Line item,66,70.8,4.8,7.3,5.4,83460,Doctoral or professional degree,,
+"        Forestry and conservation science teachers, postsecondary",25-1043,Line item,1.6,1.7,0.1,4,0.1,100830,Doctoral or professional degree,,
+"        Atmospheric, earth, marine, and space sciences teachers, postsecondary",25-1051,Line item,14,14.4,0.4,2.6,1,101390,Doctoral or professional degree,,
+"        Chemistry teachers, postsecondary",25-1052,Line item,25.4,26,0.6,2.2,1.9,86220,Doctoral or professional degree,,
+"        Environmental science teachers, postsecondary",25-1053,Line item,9,9.3,0.3,2.9,0.7,87710,Doctoral or professional degree,,
+"        Physics teachers, postsecondary",25-1054,Line item,17.1,17.5,0.4,2.5,1.3,97360,Doctoral or professional degree,,
+"        Anthropology and archeology teachers, postsecondary",25-1061,Line item,6.5,6.7,0.2,2.7,0.5,95770,Doctoral or professional degree,,
+"        Area, ethnic, and cultural studies teachers, postsecondary",25-1062,Line item,14.5,14.8,0.3,2.4,1.1,84290,Doctoral or professional degree,,
+"        Economics teachers, postsecondary",25-1063,Line item,15.8,16.1,0.3,2.1,1.2,119980,Doctoral or professional degree,,
+"        Geography teachers, postsecondary",25-1064,Line item,4,4.2,0.1,3.3,0.3,86730,Doctoral or professional degree,,
+"        Political science teachers, postsecondary",25-1065,Line item,21.8,22.2,0.4,2,1.6,94680,Doctoral or professional degree,,
+"        Psychology teachers, postsecondary",25-1066,Line item,52.5,54.4,1.9,3.6,4,80330,Doctoral or professional degree,,
+"        Sociology teachers, postsecondary",25-1067,Line item,15.4,15.7,0.3,2.1,1.1,82540,Doctoral or professional degree,,
+"        Social sciences teachers, postsecondary, all other",25-1069,Line item,20.7,21.1,0.4,1.7,1.5,75040,Doctoral or professional degree,,
+"        Health specialties teachers, postsecondary",25-1071,Line item,289.6,339.7,50.1,17.3,27.4,105620,Doctoral or professional degree,Less than 5 years,
+"        Nursing instructors and teachers, postsecondary",25-1072,Line item,91.6,106.9,15.3,16.8,8.6,79940,Doctoral or professional degree,Less than 5 years,
+"        Education teachers, postsecondary",25-1081,Line item,74.9,76.5,1.6,2.1,5.6,72090,Doctoral or professional degree,Less than 5 years,
+"        Library science teachers, postsecondary",25-1082,Line item,5.1,5.3,0.2,3,0.4,78630,Doctoral or professional degree,,
+"        Criminal justice and law enforcement teachers, postsecondary",25-1111,Line item,16.2,16.5,0.3,2,1.2,71470,Doctoral or professional degree,,
+"        Law teachers, postsecondary",25-1112,Line item,29.5,30.2,0.6,2.2,2.2,126650,Doctoral or professional degree,Less than 5 years,
+"        Social work teachers, postsecondary",25-1113,Line item,17.1,17.5,0.4,2.3,1.3,76210,Doctoral or professional degree,,
+"        Art, drama, and music teachers, postsecondary",25-1121,Line item,122.8,124.8,2.1,1.7,9,80190,Master's degree,,
+"        Communications teachers, postsecondary",25-1122,Line item,35.8,36.6,0.8,2.1,2.7,77800,Doctoral or professional degree,,
+"        English language and literature teachers, postsecondary",25-1123,Line item,72.2,72.2,0,0,5.1,78270,Doctoral or professional degree,,
+"        Foreign language and literature teachers, postsecondary",25-1124,Line item,26.4,26.4,0,-0.2,1.9,77010,Doctoral or professional degree,,
+"        History teachers, postsecondary",25-1125,Line item,24.6,24.6,-0.1,-0.2,1.7,81500,Doctoral or professional degree,,
+"        Philosophy and religion teachers, postsecondary",25-1126,Line item,27.3,27.5,0.2,0.7,2,78050,Doctoral or professional degree,,
+"        Family and consumer sciences teachers, postsecondary",25-1192,Line item,3.2,3.3,0.1,3.4,0.2,77280,Doctoral or professional degree,,
+"        Recreation and fitness studies teachers, postsecondary",25-1193,Line item,15.4,15.7,0.4,2.4,1.1,75890,Doctoral or professional degree,,
+"        Career/technical education teachers, postsecondary",25-1194,Line item,122.2,123,0.8,0.7,8.8,61490,Bachelor's degree,Less than 5 years,
+"        Postsecondary teachers, all other",25-1199,Line item,183.4,186.8,3.4,1.8,13.5,78490,Doctoral or professional degree,,
+"        Preschool teachers, except special education",25-2011,Line item,555.1,578.1,22.9,4.1,65.5,37120,Associate's degree,,
+"        Kindergarten teachers, except special education",25-2012,Line item,117.2,115.2,-1.9,-1.6,12.8,61430,Bachelor's degree,,
+"        Elementary school teachers, except special education",25-2021,Line item,1422.7,1394.8,-27.9,-2,91,62340,Bachelor's degree,,
+"        Middle school teachers, except special and career/technical education",25-2022,Line item,633.7,621.3,-12.4,-2,40.5,62970,Bachelor's degree,,
+"        Career/technical education teachers, middle school",25-2023,Line item,14,13.8,-0.3,-2,0.9,63620,Bachelor's degree,Less than 5 years,
+"        Secondary school teachers, except special and career/technical education",25-2031,Line item,1094.5,1076.7,-17.8,-1.6,66.2,64580,Bachelor's degree,,
+"        Career/technical education teachers, secondary school",25-2032,Line item,103.4,101.5,-1.9,-1.8,6.2,63910,Bachelor's degree,Less than 5 years,
+"        Special education teachers, preschool",25-2051,Line item,29.3,29.7,0.4,1.4,2.1,62190,Bachelor's degree,,
+"        Special education teachers, kindergarten and elementary school",25-2052,Line item,230.2,226.1,-4.1,-1.8,15.4,63000,Bachelor's degree,,
+"        Special education teachers, middle school",25-2057,Line item,94.8,93,-1.8,-1.9,6.3,64880,Bachelor's degree,,
+"        Special education teachers, secondary school",25-2058,Line item,164.2,161.5,-2.6,-1.6,11.1,69590,Bachelor's degree,,
+"        Special education teachers, all other",25-2059,Line item,41,41.5,0.4,1.1,2.9,67430,Bachelor's degree,,
+"      Adult basic education, adult secondary education, and english as a second language instructors",25-3011,Line item,40.9,35.3,-5.6,-13.7,3.9,59950,Bachelor's degree,,
+      Self-enrichment teachers,25-3021,Line item,417.5,433,15.5,3.7,51.4,45590,High school diploma or equivalent,Less than 5 years,
+"      Substitute teachers, short-term",25-3031,Line item,510.1,518.5,8.4,1.6,61.1,38470,Bachelor's degree,,
+      Tutors,25-3041,Line item,215.5,216.8,1.3,0.6,37.1,40090,"Some college, no degree",,
+"      Teachers and instructors, all other",25-3099,Line item,153.8,153.5,-0.2,-0.1,18,64690,Bachelor's degree,,
+        Archivists,25-4011,Line item,9.3,9.7,0.4,3.8,1.1,61570,Master's degree,,
+        Curators,25-4012,Line item,15.1,16.2,1.1,7,1.8,61770,Master's degree,,
+        Museum technicians and conservators,25-4013,Line item,15.7,16.5,0.8,5.4,1.9,47460,Bachelor's degree,,
+      Librarians and media collections specialists,25-4022,Line item,142.1,144.5,2.4,1.7,13.5,64320,Master's degree,,
+      Library technicians,25-4031,Line item,78.6,73.2,-5.4,-6.8,13,39970,Postsecondary nondegree award,,
+      Farm and home management educators,25-9021,Line item,12.4,12.1,-0.3,-2.5,1.1,58120,Master's degree,,
+      Instructional coordinators,25-9031,Line item,232.6,235.5,2.9,1.3,21.9,74720,Master's degree,5 years or more,
+"        Teaching assistants, postsecondary",25-9044,Line item,193.6,199.6,6,3.1,24.6,44930,Bachelor's degree,,
+"        Teaching assistants, except postsecondary",25-9045,Line item,1422.8,1401.7,-21.1,-1.5,170.4,35240,"Some college, no degree",,
+"      Educational instruction and library workers, all other",25-9099,Line item,132,134,2,1.5,12.5,48400,Bachelor's degree,,
+        Art directors,27-1011,Line item,135,140.7,5.7,4.2,12.3,111040,Bachelor's degree,5 years or more,
+        Craft artists,27-1012,Line item,11.6,11.9,0.2,2.1,1,38480,No formal educational credential,,Long-term on-the-job training
+"        Fine artists, including painters, sculptors, and illustrators",27-1013,Line item,26.5,26.2,-0.3,-1.2,2.2,60560,Bachelor's degree,,Long-term on-the-job training
+        Special effects artists and animators,27-1014,Line item,57.1,58,0.9,1.6,5,99800,Bachelor's degree,,
+"        Artists and related workers, all other",27-1019,Line item,13.9,14,0.1,0.8,1.2,72760,No formal educational credential,,Long-term on-the-job training
+        Commercial and industrial designers,27-1021,Line item,30.6,31.6,1,3.2,2.5,79450,Bachelor's degree,,
+        Fashion designers,27-1022,Line item,25.7,26.2,0.5,2,2.3,80690,Bachelor's degree,,
+        Floral designers,27-1023,Line item,43.8,41.2,-2.6,-5.9,5.1,36120,High school diploma or equivalent,,Moderate-term on-the-job training
+        Graphic designers,27-1024,Line item,265.9,271.5,5.7,2.1,20,61300,Bachelor's degree,,
+        Interior designers,27-1025,Line item,87.1,89.9,2.8,3.2,7.8,63490,Bachelor's degree,,
+        Merchandise displayers and window trimmers,27-1026,Line item,193,199.3,6.2,3.2,20.8,37350,High school diploma or equivalent,,Short-term on-the-job training
+        Set and exhibit designers,27-1027,Line item,31.3,32,0.7,2.3,2.5,66280,Bachelor's degree,,
+"        Designers, all other",27-1029,Line item,28.6,29.2,0.6,2,2.2,66220,Bachelor's degree,,
+        Actors,27-2011,Line item,57,57.1,0.2,0.3,6.3,,"Some college, no degree",,Long-term on-the-job training
+        Producers and directors,27-2012,Line item,167,175.2,8.3,4.9,12.8,83480,Bachelor's degree,Less than 5 years,
+        Athletes and sports competitors,27-2021,Line item,19.1,20.2,1,5.5,2.1,62360,No formal educational credential,,Long-term on-the-job training
+        Coaches and scouts,27-2022,Line item,306.5,326,19.5,6.4,41.8,45920,Bachelor's degree,,
+"        Umpires, referees, and other sports officials",27-2023,Line item,19.3,20.4,1.1,5.7,4.6,38820,High school diploma or equivalent,,Moderate-term on-the-job training
+        Dancers,27-2031,Line item,12.3,12.9,0.6,4.5,1.8,,No formal educational credential,,Long-term on-the-job training
+        Choreographers,27-2032,Line item,4.6,4.9,0.3,6.1,0.7,55600,High school diploma or equivalent,5 years or more,Long-term on-the-job training
+        Music directors and composers,27-2041,Line item,47.3,47.2,-0.1,-0.3,4.3,63670,Bachelor's degree,Less than 5 years,
+        Musicians and singers,27-2042,Line item,169.8,171.6,1.8,1.1,19.4,,No formal educational credential,,Long-term on-the-job training
+"        Disc jockeys, except radio",27-2091,Line item,15.4,16,0.6,3.8,1.5,,High school diploma or equivalent,,Short-term on-the-job training
+"        Entertainers and performers, sports and related workers, all other",27-2099,Line item,35.8,38,2.1,6,4.4,,No formal educational credential,,Short-term on-the-job training
+      Broadcast announcers and radio disc jockeys,27-3011,Line item,24.1,22.8,-1.3,-5.5,2.3,45680,Bachelor's degree,,
+"      News analysts, reporters, and journalists",27-3023,Line item,49.3,47.4,-1.9,-3.9,4.1,60280,Bachelor's degree,,
+      Public relations specialists,27-3031,Line item,315.9,331,15,4.8,27.6,69780,Bachelor's degree,,
+        Editors,27-3041,Line item,115.8,116.5,0.7,0.6,9.8,75260,Bachelor's degree,Less than 5 years,
+        Technical writers,27-3042,Line item,56.4,56.9,0.5,0.9,4.5,91670,Bachelor's degree,Less than 5 years,Short-term on-the-job training
+        Writers and authors,27-3043,Line item,135.4,140.3,4.9,3.6,13.4,72270,Bachelor's degree,,Long-term on-the-job training
+        Interpreters and translators,27-3091,Line item,75.3,76.6,1.3,1.7,6.9,59440,Bachelor's degree,,
+        Court reporters and simultaneous captioners,27-3092,Line item,17.7,17.7,0,-0.3,1.7,67310,Postsecondary nondegree award,,Short-term on-the-job training
+"        Media and communication workers, all other",27-3099,Line item,34.3,35.3,0.9,2.7,3,71770,High school diploma or equivalent,,Short-term on-the-job training
+        Audio and video technicians,27-4011,Line item,92.3,95.4,3.1,3.3,7.3,54830,Postsecondary nondegree award,,Short-term on-the-job training
+        Broadcast technicians,27-4012,Line item,24.8,24.2,-0.7,-2.8,1.8,53920,Associate's degree,,Short-term on-the-job training
+        Sound engineering technicians,27-4014,Line item,16.9,16.6,-0.3,-1.7,1.2,66430,Postsecondary nondegree award,,Short-term on-the-job training
+        Lighting technicians,27-4015,Line item,12.1,11.5,-0.6,-4.6,0.8,60560,Postsecondary nondegree award,,Short-term on-the-job training
+      Photographers,27-4021,Line item,151.2,154,2.8,1.8,12.7,42520,High school diploma or equivalent,,Moderate-term on-the-job training
+"        Camera operators, television, video, and film",27-4031,Line item,36.4,36.9,0.4,1.2,2.9,68810,Bachelor's degree,,
+        Film and video editors,27-4032,Line item,43.5,45.2,1.7,4,3.6,70980,Bachelor's degree,,
+"      Media and communication equipment workers, all other",27-4099,Line item,15.1,15.2,0.1,0.6,1.1,67190,High school diploma or equivalent,,Short-term on-the-job training
+      Chiropractors,29-1011,Line item,57.2,62.6,5.4,9.5,2.8,79000,Doctoral or professional degree,,
+"        Dentists, general",29-1021,Line item,129.8,135.2,5.4,4.1,3.9,172790,Doctoral or professional degree,,
+        Oral and maxillofacial surgeons,29-1022,Line item,6.1,6.4,0.3,4.1,0.2,,Doctoral or professional degree,,Internship/residency
+        Orthodontists,29-1023,Line item,5.9,6.2,0.3,4.4,0.2,,Doctoral or professional degree,,Internship/residency
+        Prosthodontists,29-1024,Line item,0.9,0.9,0,4.5,0,,Doctoral or professional degree,,Internship/residency
+"        Dentists, all other specialists",29-1029,Line item,6.6,6.6,0,0.3,0.2,225770,Doctoral or professional degree,,Internship/residency
+      Dietitians and nutritionists,29-1031,Line item,90.9,95.9,5,5.5,6.2,73850,Bachelor's degree,,Internship/residency
+      Optometrists,29-1041,Line item,47.8,51.6,3.8,8,2.4,134830,Doctoral or professional degree,,
+      Pharmacists,29-1051,Line item,335.1,350.5,15.4,4.6,14.2,137480,Doctoral or professional degree,,
+      Physician assistants,29-1071,Line item,162.7,195.8,33.2,20.4,12,133260,Master's degree,,
+      Podiatrists,29-1081,Line item,9.7,9.9,0.2,1.8,0.3,152800,Doctoral or professional degree,,Internship/residency
+        Occupational therapists,29-1122,Line item,160,182.1,22.1,13.8,10.2,98340,Master's degree,,
+        Physical therapists,29-1123,Line item,267.2,296.4,29.3,10.9,13.2,101020,Doctoral or professional degree,,
+        Radiation therapists,29-1124,Line item,19.2,19.6,0.4,1.9,0.9,101990,Associate's degree,,
+        Recreational therapists,29-1125,Line item,16.1,16.6,0.5,3.3,1.3,60280,Bachelor's degree,,
+        Respiratory therapists,29-1126,Line item,139.6,156.4,16.8,12.1,8.8,80450,Associate's degree,,
+        Speech-language pathologists,29-1127,Line item,187.4,215.5,28.2,15,13.3,95410,Master's degree,,Internship/residency
+        Exercise physiologists,29-1128,Line item,23.9,26.1,2.3,9.5,1.7,58160,Bachelor's degree,,
+"        Therapists, all other",29-1129,Line item,56.1,62.5,6.4,11.5,4.1,65010,Bachelor's degree,,
+      Veterinarians,29-1131,Line item,86.4,94.7,8.3,9.6,3,125510,Doctoral or professional degree,,
+      Registered nurses,29-1141,Line item,3391,3557.1,166.1,4.9,189.1,93600,Bachelor's degree,,
+      Nurse anesthetists,29-1151,Line item,53.8,58.5,4.6,8.6,2.7,223210,Master's degree,,
+      Nurse midwives,29-1161,Line item,8.6,9.5,0.9,11.1,0.5,128790,Master's degree,,
+      Nurse practitioners,29-1171,Line item,320.4,448.8,128.4,40.1,29.5,129210,Master's degree,,
+      Audiologists,29-1181,Line item,15.8,17.3,1.5,9.5,0.7,92120,Doctoral or professional degree,,
+        Anesthesiologists,29-1211,Line item,45.3,46.7,1.4,3.2,1.3,,Doctoral or professional degree,,Internship/residency
+        Cardiologists,29-1212,Line item,19.4,20.2,0.8,4.1,0.6,,Doctoral or professional degree,,Internship/residency
+        Dermatologists,29-1213,Line item,10.9,11.6,0.7,6.4,0.4,,Doctoral or professional degree,,Internship/residency
+        Emergency medicine physicians,29-1214,Line item,36.1,37.1,1,2.7,1,,Doctoral or professional degree,,Internship/residency
+        Family medicine physicians,29-1215,Line item,116,119.1,3.1,2.7,3.3,238380,Doctoral or professional degree,,Internship/residency
+        General internal medicine physicians,29-1216,Line item,73.2,75.6,2.4,3.3,2.1,236350,Doctoral or professional degree,,Internship/residency
+        Neurologists,29-1217,Line item,8.3,8.8,0.5,5.4,0.3,,Doctoral or professional degree,,Internship/residency
+        Obstetricians and gynecologists,29-1218,Line item,21.5,21.7,0.3,1.2,0.6,,Doctoral or professional degree,,Internship/residency
+"        Pediatricians, general",29-1221,Line item,46.4,46.8,0.4,0.8,1.2,210130,Doctoral or professional degree,,Internship/residency
+"        Physicians, pathologists",29-1222,Line item,12.6,13.1,0.5,4.2,0.4,,Doctoral or professional degree,,Internship/residency
+        Psychiatrists,29-1223,Line item,27.1,28.8,1.7,6.1,0.9,,Doctoral or professional degree,,Internship/residency
+        Radiologists,29-1224,Line item,28.2,29,0.8,2.7,0.8,,Doctoral or professional degree,,Internship/residency
+"        Physicians, all other",29-1229,Line item,340.7,349.3,8.6,2.5,9.6,,Doctoral or professional degree,,Internship/residency
+"        Ophthalmologists, except pediatric",29-1241,Line item,12.5,13.1,0.5,4.3,0.3,,Doctoral or professional degree,,Internship/residency
+"        Orthopedic surgeons, except pediatric",29-1242,Line item,14.7,15.3,0.6,4.1,0.4,,Doctoral or professional degree,,Internship/residency
+        Pediatric surgeons,29-1243,Line item,1.1,1.1,0,1.5,0,,Doctoral or professional degree,,Internship/residency
+"        Surgeons, all other",29-1249,Line item,25.1,26,1,3.9,0.6,,Doctoral or professional degree,,Internship/residency
+        Acupuncturists,29-1291,Line item,15.3,16.4,1,6.8,0.9,78140,Master's degree,,
+        Dental hygienists,29-1292,Line item,221.6,237.2,15.5,7,15.3,94260,Associate's degree,,
+"        Healthcare diagnosing or treating practitioners, all other",29-1299,Line item,41.3,42.2,0.8,2,2.4,113730,Master's degree,,
+      Clinical laboratory technologists and technicians,29-2010,Line item,351.2,357.2,6,1.7,22.6,61890,Bachelor's degree,,
+        Cardiovascular technologists and technicians,29-2031,Line item,64.7,66.6,1.9,3,3.8,67260,Associate's degree,,
+        Diagnostic medical sonographers,29-2032,Line item,90,101.7,11.7,13,5.8,89340,Associate's degree,,
+        Nuclear medicine technologists,29-2033,Line item,20,20.6,0.6,3,0.9,97020,Associate's degree,,
+        Radiologic technologists and technicians,29-2034,Line item,228,237.8,9.8,4.3,12.9,77660,Associate's degree,,
+        Magnetic resonance imaging technologists,29-2035,Line item,44.1,47.2,3.1,7.1,2.6,88180,Associate's degree,Less than 5 years,
+        Medical dosimetrists,29-2036,Line item,4.8,4.9,0.2,3.5,0.2,138110,Bachelor's degree,,
+        Emergency medical technicians,29-2042,Line item,181,190.2,9.2,5.1,14.1,41340,Postsecondary nondegree award,,
+        Paramedics,29-2043,Line item,101.9,107,5.1,5,4.9,58410,Postsecondary nondegree award,Less than 5 years,
+        Dietetic technicians,29-2051,Line item,30.9,31.7,0.8,2.5,4,37040,Associate's degree,,
+        Pharmacy technicians,29-2052,Line item,490.4,521.8,31.5,6.4,49,43460,High school diploma or equivalent,,Moderate-term on-the-job training
+        Psychiatric technicians,29-2053,Line item,144.5,173.3,28.9,20,15.9,42590,Postsecondary nondegree award,Less than 5 years,Short-term on-the-job training
+        Surgical technologists,29-2055,Line item,115.6,120.8,5.2,4.5,7,62830,Postsecondary nondegree award,,
+        Veterinary technologists and technicians,29-2056,Line item,134.2,146.4,12.2,9.1,14.3,45980,Associate's degree,,
+        Ophthalmic medical technicians,29-2057,Line item,78.8,94.4,15.6,19.8,12.5,44080,Postsecondary nondegree award,,
+      Licensed practical and licensed vocational nurses,29-2061,Line item,651.4,668.5,17.1,2.6,54.4,62340,Postsecondary nondegree award,,
+      Medical records specialists,29-2072,Line item,194.8,208.6,13.8,7.1,14.2,50250,Postsecondary nondegree award,,
+"      Opticians, dispensing",29-2081,Line item,79.9,82.2,2.3,2.9,6.8,46560,High school diploma or equivalent,,Long-term on-the-job training
+        Orthotists and prosthetists,29-2091,Line item,10.1,11.5,1.3,13.3,0.9,78310,Master's degree,,Internship/residency
+        Hearing aid specialists,29-2092,Line item,10.7,12.6,2,18.4,1,61560,High school diploma or equivalent,,Moderate-term on-the-job training
+"        Health technologists and technicians, all other",29-2099,Line item,178.8,188.1,9.3,5.2,13.6,48790,Postsecondary nondegree award,,
+      Health information technologists and medical registrars,29-9021,Line item,41.9,48.1,6.2,14.7,3.2,67310,Associate's degree,,
+        Athletic trainers,29-9091,Line item,33.9,37.6,3.8,11.1,2.4,60250,Master's degree,,
+        Genetic counselors,29-9092,Line item,4,4.3,0.4,9.3,0.3,98910,Master's degree,,
+        Surgical assistants,29-9093,Line item,25.3,26.6,1.3,5.1,1.6,60290,Postsecondary nondegree award,,
+"        Healthcare practitioners and technical workers, all other",29-9099,Line item,41.7,43.1,1.5,3.6,2.6,64030,Postsecondary nondegree award,,
+      Home health and personal care aides,31-1120,Line item,4347.7,5087.5,739.8,17,765.8,34900,High school diploma or equivalent,,Short-term on-the-job training
+        Nursing assistants,31-1131,Line item,1441.5,1474,32.6,2.3,204.1,39530,Postsecondary nondegree award,,
+        Orderlies,31-1132,Line item,54,55.8,1.8,3.3,7.8,37700,High school diploma or equivalent,,Short-term on-the-job training
+        Psychiatric aides,31-1133,Line item,38.5,38.3,-0.1,-0.4,5.3,41590,High school diploma or equivalent,,Short-term on-the-job training
+        Occupational therapy assistants,31-2011,Line item,49.2,58.7,9.5,19.2,7.2,68340,Associate's degree,,
+        Occupational therapy aides,31-2012,Line item,5.2,5.3,0.1,2.5,0.6,37370,High school diploma or equivalent,,Short-term on-the-job training
+        Physical therapist assistants,31-2021,Line item,111.5,136,24.5,22,19.8,65510,Associate's degree,,
+        Physical therapist aides,31-2022,Line item,45.6,46.9,1.3,2.8,6.6,34520,High school diploma or equivalent,,Short-term on-the-job training
+      Massage therapists,31-9011,Line item,168,193.9,25.9,15.4,24.7,57950,Postsecondary nondegree award,,
+        Dental assistants,31-9091,Line item,381.9,406.3,24.4,6.4,52.9,47300,Postsecondary nondegree award,,
+        Medical assistants,31-9092,Line item,811,912.2,101.2,12.5,112.3,44200,Postsecondary nondegree award,,
+        Medical equipment preparers,31-9093,Line item,76.5,84.2,7.6,10,10.9,46490,High school diploma or equivalent,,Moderate-term on-the-job training
+        Medical transcriptionists,31-9094,Line item,43.9,41.8,-2.2,-4.9,7.4,37550,Postsecondary nondegree award,,
+        Pharmacy aides,31-9095,Line item,41.1,41.1,-0.1,-0.1,6.1,37000,High school diploma or equivalent,,Short-term on-the-job training
+        Veterinary assistants and laboratory animal caretakers,31-9096,Line item,117.8,128.1,10.3,8.7,22.2,37320,High school diploma or equivalent,,Short-term on-the-job training
+        Phlebotomists,31-9097,Line item,139.7,147.5,7.9,5.6,18.4,43660,Postsecondary nondegree award,,
+"        Healthcare support workers, all other",31-9099,Line item,109.7,113.5,3.8,3.5,14.4,46050,High school diploma or equivalent,,
+        First-line supervisors of correctional officers,33-1011,Line item,57.1,55.5,-1.6,-2.8,4.3,76310,High school diploma or equivalent,Less than 5 years,
+        First-line supervisors of police and detectives,33-1012,Line item,160.8,165.4,4.6,2.9,10.9,105980,High school diploma or equivalent,Less than 5 years,Moderate-term on-the-job training
+      First-line supervisors of firefighting and prevention workers,33-1021,Line item,97.2,100.5,3.4,3.4,6.5,92430,Postsecondary nondegree award,Less than 5 years,Moderate-term on-the-job training
+        First-line supervisors of security workers,33-1091,Line item,71.9,73.8,1.9,2.7,7,58610,High school diploma or equivalent,Less than 5 years,
+"        First-line supervisors of protective service workers, all other",33-1099,Line item,21.5,21.8,0.3,1.6,2.1,74960,High school diploma or equivalent,Less than 5 years,
+      Firefighters,33-2011,Line item,344.9,356.7,11.8,3.4,27.1,59530,Postsecondary nondegree award,,Long-term on-the-job training
+        Fire inspectors and investigators,33-2021,Line item,14.7,15.2,0.6,3.8,1.5,78060,Postsecondary nondegree award,5 years or more,Moderate-term on-the-job training
+        Forest fire inspectors and prevention specialists,33-2022,Line item,2.9,3.3,0.4,14.6,0.3,52380,High school diploma or equivalent,Less than 5 years,Moderate-term on-the-job training
+        Bailiffs,33-3011,Line item,19,18.6,-0.4,-2.2,1.8,57050,High school diploma or equivalent,,Moderate-term on-the-job training
+        Correctional officers and jailers,33-3012,Line item,387.5,357.4,-30.1,-7.8,30.1,57970,High school diploma or equivalent,,Moderate-term on-the-job training
+      Detectives and criminal investigators,33-3021,Line item,117.9,117.1,-0.8,-0.7,7.8,93580,High school diploma or equivalent,Less than 5 years,Moderate-term on-the-job training
+      Fish and game wardens,33-3031,Line item,7,6.6,-0.4,-6,0.5,68180,Bachelor's degree,,Moderate-term on-the-job training
+      Parking enforcement workers,33-3041,Line item,8.4,8.2,-0.1,-1.5,0.7,47150,High school diploma or equivalent,,Short-term on-the-job training
+        Police and sheriff's patrol officers,33-3051,Line item,698.8,720.8,22,3.1,53.7,76290,High school diploma or equivalent,,Moderate-term on-the-job training
+        Transit and railroad police,33-3052,Line item,3.1,3.2,0.1,3,0.2,82320,High school diploma or equivalent,,Moderate-term on-the-job training
+      Animal control workers,33-9011,Line item,12.2,12.7,0.5,3.9,1.3,45830,High school diploma or equivalent,,Moderate-term on-the-job training
+      Private detectives and investigators,33-9021,Line item,43.6,46.2,2.6,6,3.9,52370,High school diploma or equivalent,Less than 5 years,Moderate-term on-the-job training
+        Gambling surveillance officers and gambling investigators,33-9031,Line item,10.3,10.3,0,0.3,1.3,43900,High school diploma or equivalent,Less than 5 years,Moderate-term on-the-job training
+        Security guards,33-9032,Line item,1262.1,1267.1,5.1,0.4,161,38370,High school diploma or equivalent,,Short-term on-the-job training
+        Crossing guards and flaggers,33-9091,Line item,91.4,94.7,3.3,3.6,18,37700,No formal educational credential,,Short-term on-the-job training
+"        Lifeguards, ski patrol, and other recreational protective service workers",33-9092,Line item,149.7,158.4,8.7,5.8,42.7,33720,No formal educational credential,,Short-term on-the-job training
+        Transportation security screeners,33-9093,Line item,50.1,47.1,-3,-6,4.7,63360,High school diploma or equivalent,,Short-term on-the-job training
+        School bus monitors,33-9094,Line item,71.4,69.5,-2,-2.7,12.6,34980,High school diploma or equivalent,,Short-term on-the-job training
+"        Protective service workers, all other",33-9099,Line item,84,86.1,2.1,2.5,23.3,41600,High school diploma or equivalent,,Short-term on-the-job training
+      Chefs and head cooks,35-1011,Line item,197.3,211.3,14,7.1,24.4,60990,High school diploma or equivalent,5 years or more,
+      First-line supervisors of food preparation and serving workers,35-1012,Line item,1215,1288,73,6,183.9,42010,High school diploma or equivalent,Less than 5 years,
+"        Cooks, fast food",35-2011,Line item,669.5,579.2,-90.3,-13.5,82.1,30160,No formal educational credential,,Short-term on-the-job training
+"        Cooks, institution and cafeteria",35-2012,Line item,466.1,475.4,9.3,2,69.7,36450,No formal educational credential,,Short-term on-the-job training
+"        Cooks, private household",35-2013,Line item,34.2,36,1.7,5.1,5.3,44530,Postsecondary nondegree award,Less than 5 years,
+"        Cooks, restaurant",35-2014,Line item,1460.2,1677.2,217,14.9,250.7,36830,No formal educational credential,Less than 5 years,Moderate-term on-the-job training
+"        Cooks, short order",35-2015,Line item,151.1,142.7,-8.4,-5.6,20.6,35620,No formal educational credential,,Short-term on-the-job training
+"        Cooks, all other",35-2019,Line item,24,25.3,1.3,5.5,3.7,36210,No formal educational credential,,Moderate-term on-the-job training
+      Food preparation workers,35-2021,Line item,902.7,871.8,-30.9,-3.4,148,34220,No formal educational credential,,Short-term on-the-job training
+      Bartenders,35-3011,Line item,756.7,801.5,44.8,5.9,129.6,33530,No formal educational credential,,Short-term on-the-job training
+      Fast food and counter workers,35-3023,Line item,3796,4029.2,233.2,6.1,904.3,30480,No formal educational credential,,Short-term on-the-job training
+      Waiters and waitresses,35-3031,Line item,2329.7,2313.5,-16.3,-0.7,456.7,33760,No formal educational credential,,Short-term on-the-job training
+"      Food servers, nonrestaurant",35-3041,Line item,277.2,285.3,8.2,3,48,34460,No formal educational credential,,Short-term on-the-job training
+      Dining room and cafeteria attendants and bartender helpers,35-9011,Line item,527.4,560.6,33.1,6.3,99.6,32670,No formal educational credential,,Short-term on-the-job training
+      Dishwashers,35-9021,Line item,477.7,478.6,0.9,0.2,76.8,33670,No formal educational credential,,Short-term on-the-job training
+"      Hosts and hostesses, restaurant, lounge, and coffee shop",35-9031,Line item,429.9,423.5,-6.4,-1.5,107.7,30380,No formal educational credential,,Short-term on-the-job training
+"      Food preparation and serving related workers, all other",35-9099,Line item,90.5,96.3,5.8,6.4,14.6,34830,No formal educational credential,,Short-term on-the-job training
+      First-line supervisors of housekeeping and janitorial workers,37-1011,Line item,269.8,276.4,6.7,2.5,33,47520,High school diploma or equivalent,Less than 5 years,
+"      First-line supervisors of landscaping, lawn service, and groundskeeping workers",37-1012,Line item,224.7,230,5.2,2.3,23.2,56170,High school diploma or equivalent,Less than 5 years,
+"        Janitors and cleaners, except maids and housekeeping cleaners",37-2011,Line item,2447.7,2495.5,47.8,2,351.3,35930,No formal educational credential,,Short-term on-the-job training
+        Maids and housekeeping cleaners,37-2012,Line item,1356.8,1362.8,6,0.4,193.5,34660,No formal educational credential,,Short-term on-the-job training
+"        Building cleaning workers, all other",37-2019,Line item,18.1,18.5,0.5,2.5,2.6,42360,No formal educational credential,,Short-term on-the-job training
+      Pest control workers,37-2021,Line item,102.4,107.5,5.1,4.9,13.4,44730,High school diploma or equivalent,,Moderate-term on-the-job training
+      Landscaping and groundskeeping workers,37-3011,Line item,1192.5,1235,42.4,3.6,158.2,38090,No formal educational credential,,Short-term on-the-job training
+"      Pesticide handlers, sprayers, and applicators, vegetation",37-3012,Line item,29.6,30.7,1.1,3.8,4.1,45200,High school diploma or equivalent,,Moderate-term on-the-job training
+      Tree trimmers and pruners,37-3013,Line item,60.1,62.1,2,3.3,7.4,50430,High school diploma or equivalent,,Short-term on-the-job training
+"      Grounds maintenance workers, all other",37-3019,Line item,14.1,14.5,0.3,2.4,1.9,43410,No formal educational credential,,Short-term on-the-job training
+        First-line supervisors of gambling services workers,39-1013,Line item,32.5,33.1,0.6,2,3.3,61590,High school diploma or equivalent,Less than 5 years,
+"        First-line supervisors of entertainment and recreation workers, except gambling services",39-1014,Line item,123.3,131.1,7.8,6.3,13.4,46900,High school diploma or equivalent,Less than 5 years,
+      First-line supervisors of personal service workers,39-1022,Line item,149.1,159.1,10,6.7,16.3,47080,High school diploma or equivalent,Less than 5 years,
+      Animal trainers,39-2011,Line item,47.3,49.8,2.4,5.1,7.1,38750,High school diploma or equivalent,,Moderate-term on-the-job training
+      Animal caretakers,39-2021,Line item,392.1,439.6,47.6,12.1,74.6,33470,High school diploma or equivalent,,Short-term on-the-job training
+        Gambling dealers,39-3011,Line item,88.7,88.1,-0.6,-0.6,14.1,33280,High school diploma or equivalent,,Short-term on-the-job training
+        Gambling and sports book writers and runners,39-3012,Line item,8.2,7.7,-0.5,-6.1,1.2,30460,High school diploma or equivalent,,Short-term on-the-job training
+"        Gambling service workers, all other",39-3019,Line item,16.1,16,-0.1,-0.6,2.6,34530,High school diploma or equivalent,,Short-term on-the-job training
+      Motion picture projectionists,39-3021,Line item,2,2,-0.1,-3.7,0.5,38180,No formal educational credential,,Short-term on-the-job training
+"      Ushers, lobby attendants, and ticket takers",39-3031,Line item,121.7,123.1,1.4,1.2,30.8,31150,No formal educational credential,,Short-term on-the-job training
+        Amusement and recreation attendants,39-3091,Line item,392.3,405.5,13.2,3.4,102.4,30490,No formal educational credential,,Short-term on-the-job training
+        Costume attendants,39-3092,Line item,6.7,7.1,0.4,5.9,1.8,54810,High school diploma or equivalent,,Short-term on-the-job training
+"        Locker room, coatroom, and dressing room attendants",39-3093,Line item,15.6,16.6,1,6.4,4.2,34800,High school diploma or equivalent,,Short-term on-the-job training
+"        Entertainment attendants and related workers, all other",39-3099,Line item,8.5,8.8,0.3,3.6,2.2,34550,High school diploma or equivalent,,Short-term on-the-job training
+        Embalmers,39-4011,Line item,3.6,3.7,0,1.3,0.6,56280,Associate's degree,,Long-term on-the-job training
+        Crematory operators,39-4012,Line item,3.1,3.2,0.1,3.3,0.6,42880,High school diploma or equivalent,,Short-term on-the-job training
+      Funeral attendants,39-4021,Line item,32.5,33.5,1,3.1,5.7,34610,High school diploma or equivalent,,Short-term on-the-job training
+"      Morticians, undertakers, and funeral arrangers",39-4031,Line item,27.5,28.4,0.8,3.1,3.2,49800,Associate's degree,,Long-term on-the-job training
+        Barbers,39-5011,Line item,76,79.2,3.1,4.1,8.4,38960,Postsecondary nondegree award,,
+"        Hairdressers, hairstylists, and cosmetologists",39-5012,Line item,575.2,607.4,32.2,5.6,75.8,35250,Postsecondary nondegree award,,
+"        Makeup artists, theatrical and performance",39-5091,Line item,7,7.6,0.6,8.1,1.1,50280,Postsecondary nondegree award,,
+        Manicurists and pedicurists,39-5092,Line item,210.1,224.8,14.7,7,24.8,34660,Postsecondary nondegree award,,
+        Shampooers,39-5093,Line item,18.5,19.6,1,5.5,2.7,31470,No formal educational credential,,Short-term on-the-job training
+        Skincare specialists,39-5094,Line item,97.4,103.9,6.6,6.7,14.5,41560,Postsecondary nondegree award,,
+      Baggage porters and bellhops,39-6011,Line item,32.5,32,-0.5,-1.6,4.6,36020,High school diploma or equivalent,,Short-term on-the-job training
+      Concierges,39-6012,Line item,45.6,46.7,1.1,2.3,6.8,37320,High school diploma or equivalent,,Moderate-term on-the-job training
+      Tour and travel guides,39-7010,Line item,55.8,60.3,4.5,8.1,13,36660,High school diploma or equivalent,,Moderate-term on-the-job training
+      Childcare workers,39-9011,Line item,991.6,962.4,-29.2,-2.9,160.2,32050,High school diploma or equivalent,,Short-term on-the-job training
+        Exercise trainers and group fitness instructors,39-9031,Line item,370.1,414.2,44.1,11.9,74.2,46180,High school diploma or equivalent,,Short-term on-the-job training
+        Recreation workers,39-9032,Line item,327.7,341.1,13.4,4.1,68.1,35380,High school diploma or equivalent,,Short-term on-the-job training
+      Residential advisors,39-9041,Line item,91.2,94.7,3.5,3.8,17.4,39180,High school diploma or equivalent,,Short-term on-the-job training
+"      Personal care and service workers, all other",39-9099,Line item,94.4,100.4,6,6.4,16.1,37900,High school diploma or equivalent,,Short-term on-the-job training
+      First-line supervisors of retail sales workers,41-1011,Line item,1432.6,1360.3,-72.3,-5,125.1,47320,High school diploma or equivalent,Less than 5 years,
+      First-line supervisors of non-retail sales workers,41-1012,Line item,320,320,0,0,24.8,84130,High school diploma or equivalent,Less than 5 years,
+        Cashiers,41-2011,Line item,3157.2,2843.6,-313.6,-9.9,542.6,31190,No formal educational credential,,Short-term on-the-job training
+        Gambling change persons and booth cashiers,41-2012,Line item,22.6,21.1,-1.5,-6.4,4,34810,No formal educational credential,,Short-term on-the-job training
+        Counter and rental clerks,41-2021,Line item,408.2,421.3,13.1,3.2,45.9,38540,No formal educational credential,,Short-term on-the-job training
+        Parts salespersons,41-2022,Line item,272.1,280.6,8.5,3.1,30.2,37440,No formal educational credential,,Moderate-term on-the-job training
+      Retail salespersons,41-2031,Line item,3936.7,3917.1,-19.6,-0.5,555.8,34580,No formal educational credential,,Short-term on-the-job training
+      Advertising sales agents,41-3011,Line item,103.7,97.1,-6.6,-6.4,9.3,61460,High school diploma or equivalent,,Moderate-term on-the-job training
+      Insurance sales agents,41-3021,Line item,568.8,589.8,21.1,3.7,47,60370,High school diploma or equivalent,,Moderate-term on-the-job training
+"      Securities, commodities, and financial services sales agents",41-3031,Line item,514.5,531.6,17.1,3.3,38.1,78140,Bachelor's degree,,Moderate-term on-the-job training
+      Travel agents,41-3041,Line item,65.7,67.2,1.4,2.2,7.1,48450,High school diploma or equivalent,,Moderate-term on-the-job training
+"      Sales representatives of services, except advertising, insurance, financial services, and travel",41-3091,Line item,1226.7,1264.7,37.9,3.1,123,66260,High school diploma or equivalent,,Moderate-term on-the-job training
+"      Sales representatives, wholesale and manufacturing, technical and scientific products",41-4011,Line item,303.2,308.9,5.7,1.9,27.2,100070,Bachelor's degree,,Moderate-term on-the-job training
+"      Sales representatives, wholesale and manufacturing, except technical and scientific products",41-4012,Line item,1310.5,1314.9,4.4,0.3,114.8,66780,High school diploma or equivalent,,Moderate-term on-the-job training
+        Demonstrators and product promoters,41-9011,Line item,79.2,79.1,-0.1,-0.1,14,37960,No formal educational credential,,Short-term on-the-job training
+        Models,41-9012,Line item,6.7,6.7,0,-0.5,1.2,89990,No formal educational credential,,
+        Real estate brokers,41-9021,Line item,111.3,115,3.7,3.3,9.7,72280,High school diploma or equivalent,Less than 5 years,
+        Real estate sales agents,41-9022,Line item,420.9,433.7,12.8,3.1,36.6,56320,High school diploma or equivalent,,Moderate-term on-the-job training
+      Sales engineers,41-9031,Line item,56.8,59.9,3.1,5.5,5,121520,Bachelor's degree,,Moderate-term on-the-job training
+      Telemarketers,41-9041,Line item,67.4,52.5,-14.9,-22.1,6.5,34410,No formal educational credential,,Short-term on-the-job training
+"        Door-to-door sales workers, news and street vendors, and related workers",41-9091,Line item,25.3,22.8,-2.5,-10,2.7,34530,No formal educational credential,,Short-term on-the-job training
+"        Sales and related workers, all other",41-9099,Line item,122.6,127.1,4.5,3.7,16,46370,High school diploma or equivalent,,
+      First-line supervisors of office and administrative support workers,43-1011,Line item,1558.4,1554.4,-3.9,-0.3,144.5,66140,High school diploma or equivalent,Less than 5 years,
+"      Switchboard operators, including answering service",43-2011,Line item,36.6,27,-9.6,-26.3,2.8,38370,High school diploma or equivalent,,Short-term on-the-job training
+      Telephone operators,43-2021,Line item,4,2.9,-1.1,-27.5,0.3,39130,High school diploma or equivalent,,Short-term on-the-job training
+"      Communications equipment operators, all other",43-2099,Line item,1.4,1.5,0,2.5,0.1,49910,High school diploma or equivalent,,Short-term on-the-job training
+      Bill and account collectors,43-3011,Line item,166.9,149.4,-17.5,-10.5,13.7,46040,High school diploma or equivalent,,Moderate-term on-the-job training
+      Billing and posting clerks,43-3021,Line item,429.8,427.9,-1.9,-0.4,42.2,47170,High school diploma or equivalent,,Moderate-term on-the-job training
+"      Bookkeeping, accounting, and auditing clerks",43-3031,Line item,1613.4,1519.1,-94.3,-5.8,170,49210,"Some college, no degree",,Moderate-term on-the-job training
+      Gambling cage workers,43-3041,Line item,14.1,13.4,-0.7,-5,1.3,36990,High school diploma or equivalent,,Short-term on-the-job training
+      Payroll and timekeeping clerks,43-3051,Line item,161.1,134.2,-27,-16.7,13,55290,High school diploma or equivalent,,Moderate-term on-the-job training
+      Procurement clerks,43-3061,Line item,61.9,56.6,-5.4,-8.7,4.6,48510,High school diploma or equivalent,,Moderate-term on-the-job training
+      Tellers,43-3071,Line item,347.4,302.5,-44.9,-12.9,29.8,39340,High school diploma or equivalent,,Short-term on-the-job training
+"      Financial clerks, all other",43-3099,Line item,38.9,39.4,0.5,1.4,4,52150,High school diploma or equivalent,,Short-term on-the-job training
+      Brokerage clerks,43-4011,Line item,40.8,36.9,-3.9,-9.5,4.1,62940,High school diploma or equivalent,,Moderate-term on-the-job training
+      Correspondence clerks,43-4021,Line item,6.9,6.5,-0.4,-5.6,0.7,46740,High school diploma or equivalent,,Short-term on-the-job training
+"      Court, municipal, and license clerks",43-4031,Line item,180.4,185.9,5.5,3,18.5,47700,High school diploma or equivalent,,Long-term on-the-job training
+"      Credit authorizers, checkers, and clerks",43-4041,Line item,12,11.3,-0.7,-6.2,1,49130,High school diploma or equivalent,,Moderate-term on-the-job training
+      Customer service representatives,43-4051,Line item,2814,2660.3,-153.7,-5.5,341.7,42830,High school diploma or equivalent,,Short-term on-the-job training
+"      Eligibility interviewers, government programs",43-4061,Line item,166.8,168.5,1.7,1,14,51500,High school diploma or equivalent,,Moderate-term on-the-job training
+      File clerks,43-4071,Line item,84.3,70.9,-13.4,-15.9,7.3,41270,High school diploma or equivalent,,Short-term on-the-job training
+"      Hotel, motel, and resort desk clerks",43-4081,Line item,264.2,274,9.9,3.7,43.6,34270,High school diploma or equivalent,,Short-term on-the-job training
+"      Interviewers, except eligibility and loan",43-4111,Line item,164.3,145.1,-19.1,-11.6,15.8,43830,High school diploma or equivalent,,Short-term on-the-job training
+"      Library assistants, clerical",43-4121,Line item,84.5,78.9,-5.6,-6.7,12.8,36010,High school diploma or equivalent,,Short-term on-the-job training
+      Loan interviewers and clerks,43-4131,Line item,177.6,173.5,-4.1,-2.3,13.3,48950,High school diploma or equivalent,,Short-term on-the-job training
+      New accounts clerks,43-4141,Line item,38.9,33.8,-5.2,-13.2,2.3,46610,High school diploma or equivalent,,Moderate-term on-the-job training
+      Order clerks,43-4151,Line item,89.5,74.1,-15.4,-17.2,8,44660,"Some college, no degree",,Short-term on-the-job training
+"      Human resources assistants, except payroll and timekeeping",43-4161,Line item,95.2,88.4,-6.8,-7.1,9,49440,Associate's degree,,
+      Receptionists and information clerks,43-4171,Line item,1007.2,1007.6,0.3,0,128.5,37230,High school diploma or equivalent,,Short-term on-the-job training
+      Reservation and transportation ticket agents and travel clerks,43-4181,Line item,131.9,135.6,3.7,2.8,14.4,41460,High school diploma or equivalent,,Short-term on-the-job training
+"      Information and record clerks, all other",43-4199,Line item,153.3,153,-0.3,-0.2,17.8,48360,High school diploma or equivalent,,Short-term on-the-job training
+      Cargo and freight agents,43-5011,Line item,100.6,109.2,8.6,8.5,8.8,49900,High school diploma or equivalent,,Short-term on-the-job training
+      Couriers and messengers,43-5021,Line item,247.2,267.6,20.4,8.2,27.9,38340,High school diploma or equivalent,,Short-term on-the-job training
+        Public safety telecommunicators,43-5031,Line item,105.2,108.9,3.6,3.5,10.7,50730,High school diploma or equivalent,,Moderate-term on-the-job training
+"        Dispatchers, except police, fire, and ambulance",43-5032,Line item,218.7,216.7,-2.1,-0.9,18.5,48880,High school diploma or equivalent,,Moderate-term on-the-job training
+"      Meter readers, utilities",43-5041,Line item,20.1,17.7,-2.4,-12,1.3,49180,High school diploma or equivalent,,Short-term on-the-job training
+        Postal service clerks,43-5051,Line item,74.2,71.6,-2.6,-3.5,6.1,61630,No formal educational credential,,Short-term on-the-job training
+        Postal service mail carriers,43-5052,Line item,319.4,308.1,-11.3,-3.5,20.6,57490,No formal educational credential,,Short-term on-the-job training
+"        Postal service mail sorters, processors, and processing machine operators",43-5053,Line item,106.4,97.5,-8.9,-8.4,7.8,56530,No formal educational credential,,Short-term on-the-job training
+"      Production, planning, and expediting clerks",43-5061,Line item,388.8,381.7,-7.1,-1.8,34.1,57770,High school diploma or equivalent,,Moderate-term on-the-job training
+"      Shipping, receiving, and inventory clerks",43-5071,Line item,862.2,795.8,-66.3,-7.7,69.3,43190,High school diploma or equivalent,,Short-term on-the-job training
+"      Weighers, measurers, checkers, and samplers, recordkeeping",43-5111,Line item,49.8,47.4,-2.4,-4.8,5.3,45650,High school diploma or equivalent,,Short-term on-the-job training
+      Executive secretaries and executive administrative assistants,43-6011,Line item,502.8,494.9,-7.9,-1.6,50,74260,High school diploma or equivalent,Less than 5 years,
+      Legal secretaries and administrative assistants,43-6012,Line item,156.3,147.3,-9,-5.8,19.6,54140,High school diploma or equivalent,,Moderate-term on-the-job training
+      Medical secretaries and administrative assistants,43-6013,Line item,850,885.3,35.3,4.2,85.9,44640,High school diploma or equivalent,,Moderate-term on-the-job training
+"      Secretaries and administrative assistants, except legal, medical, and executive",43-6014,Line item,1944,1913.2,-30.8,-1.6,202.8,46290,High school diploma or equivalent,,Short-term on-the-job training
+        Data entry keyers,43-9021,Line item,141.6,104.9,-36.7,-25.9,9.5,39850,High school diploma or equivalent,,Short-term on-the-job training
+        Word processors and typists,43-9022,Line item,40,25.6,-14.4,-36.1,2.2,47850,High school diploma or equivalent,,Short-term on-the-job training
+      Desktop publishers,43-9031,Line item,5,4.4,-0.6,-12.4,0.4,53620,Associate's degree,,Short-term on-the-job training
+      Insurance claims and policy processing clerks,43-9041,Line item,256.7,247.2,-9.5,-3.7,20.3,48450,High school diploma or equivalent,,Moderate-term on-the-job training
+"      Mail clerks and mail machine operators, except postal service",43-9051,Line item,67.4,62.9,-4.4,-6.6,6.9,38150,High school diploma or equivalent,,Short-term on-the-job training
+"      Office clerks, general",43-9061,Line item,2646,2468.2,-177.8,-6.7,282.4,43630,High school diploma or equivalent,,Short-term on-the-job training
+"      Office machine operators, except computer",43-9071,Line item,25.5,21.6,-3.9,-15.2,2.8,39020,High school diploma or equivalent,,Short-term on-the-job training
+      Proofreaders and copy markers,43-9081,Line item,12,11.9,-0.1,-0.6,1.9,49210,Bachelor's degree,,
+      Statistical assistants,43-9111,Line item,6.5,6.3,-0.2,-2.5,0.8,51440,Bachelor's degree,,
+"      Office and administrative support workers, all other",43-9199,Line item,232.9,214.8,-18.1,-7.8,21.3,46040,High school diploma or equivalent,,Short-term on-the-job training
+"      First-line supervisors of farming, fishing, and forestry workers",45-1011,Line item,65.4,67,1.6,2.5,8.5,59330,High school diploma or equivalent,Less than 5 years,
+      Agricultural inspectors,45-2011,Line item,14.7,14.9,0.2,1.5,2.2,50990,Bachelor's degree,,Moderate-term on-the-job training
+      Animal breeders,45-2021,Line item,7.9,8.1,0.2,2.4,1.2,52000,High school diploma or equivalent,,Short-term on-the-job training
+"      Graders and sorters, agricultural products",45-2041,Line item,38.9,36.8,-2.1,-5.4,5.1,35430,No formal educational credential,,Short-term on-the-job training
+        Agricultural equipment operators,45-2091,Line item,65.2,70.3,5,7.7,10.5,42580,No formal educational credential,,Moderate-term on-the-job training
+"        Farmworkers and laborers, crop, nursery, and greenhouse",45-2092,Line item,504.8,488.1,-16.8,-3.3,71.7,35690,No formal educational credential,,Short-term on-the-job training
+"        Farmworkers, farm, ranch, and aquacultural animals",45-2093,Line item,224.6,213.4,-11.1,-5,31.2,36150,No formal educational credential,,Short-term on-the-job training
+"        Agricultural workers, all other",45-2099,Line item,10.1,10.3,0.2,2.3,1.5,40390,No formal educational credential,,Short-term on-the-job training
+      Fishing and hunting workers,45-3031,Line item,21.9,20.9,-1,-4.6,2.8,,No formal educational credential,,Moderate-term on-the-job training
+      Forest and conservation workers,45-4011,Line item,10.8,10.3,-0.5,-4.7,2,43680,High school diploma or equivalent,,Moderate-term on-the-job training
+        Fallers,45-4021,Line item,5.6,5.2,-0.4,-7.3,0.7,53900,High school diploma or equivalent,,Moderate-term on-the-job training
+        Logging equipment operators,45-4022,Line item,30.9,30.5,-0.4,-1.4,4.2,49210,High school diploma or equivalent,,Moderate-term on-the-job training
+        Log graders and scalers,45-4023,Line item,4.6,4.6,0,-0.7,0.6,46710,High school diploma or equivalent,,Moderate-term on-the-job training
+"        Logging workers, all other",45-4029,Line item,3.1,3,-0.1,-4.7,0.4,52000,High school diploma or equivalent,,Moderate-term on-the-job training
+      First-line supervisors of construction trades and extraction workers,47-1011,Line item,921.6,970.6,49,5.3,74.4,78690,High school diploma or equivalent,5 years or more,
+      Boilermakers,47-2011,Line item,10.4,10.1,-0.2,-2.4,0.8,73340,High school diploma or equivalent,,Apprenticeship
+        Brickmasons and blockmasons,47-2021,Line item,74.1,76.4,2.4,3.2,5.6,60800,High school diploma or equivalent,,Apprenticeship
+        Stonemasons,47-2022,Line item,12.1,11.8,-0.4,-3,0.8,51990,High school diploma or equivalent,,Apprenticeship
+      Carpenters,47-2031,Line item,959,1002.1,43.1,4.5,74.1,59310,High school diploma or equivalent,,Apprenticeship
+        Carpet installers,47-2041,Line item,20.3,18.3,-1.9,-9.6,1.1,49850,No formal educational credential,,Short-term on-the-job training
+"        Floor layers, except carpet, wood, and hard tiles",47-2042,Line item,33.7,36.9,3.2,9.5,2.7,54340,No formal educational credential,,Moderate-term on-the-job training
+        Floor sanders and finishers,47-2043,Line item,5.6,5.8,0.1,2.6,0.4,49150,No formal educational credential,,Moderate-term on-the-job training
+        Tile and stone setters,47-2044,Line item,52.6,58,5.3,10.1,4.2,52240,No formal educational credential,,Long-term on-the-job training
+        Cement masons and concrete finishers,47-2051,Line item,206.7,210.4,3.8,1.8,14.3,54660,No formal educational credential,,Moderate-term on-the-job training
+        Terrazzo workers and finishers,47-2053,Line item,1.5,1.3,-0.2,-11.1,0.1,57260,High school diploma or equivalent,,Apprenticeship
+      Construction laborers,47-2061,Line item,1457,1563.4,106.5,7.3,129.4,46730,No formal educational credential,,Short-term on-the-job training
+"        Paving, surfacing, and tamping equipment operators",47-2071,Line item,47,48.6,1.5,3.2,4,51650,High school diploma or equivalent,,Moderate-term on-the-job training
+        Pile driver operators,47-2072,Line item,3.2,3.3,0.1,4.3,0.3,70510,High school diploma or equivalent,,Moderate-term on-the-job training
+        Operating engineers and other construction equipment operators,47-2073,Line item,489.3,507.1,17.8,3.6,41.9,58710,High school diploma or equivalent,,Moderate-term on-the-job training
+        Drywall and ceiling tile installers,47-2081,Line item,103.1,107.4,4.3,4.2,7.7,58140,No formal educational credential,,Moderate-term on-the-job training
+        Tapers,47-2082,Line item,15.6,15.6,0,0.1,1.1,64700,No formal educational credential,,Moderate-term on-the-job training
+      Electricians,47-2111,Line item,818.7,896.1,77.4,9.5,81,62350,High school diploma or equivalent,,Apprenticeship
+      Glaziers,47-2121,Line item,60.5,62.5,2,3.3,5.1,55440,High school diploma or equivalent,,Apprenticeship
+"        Insulation workers, floor, ceiling, and wall",47-2131,Line item,40.2,41.7,1.5,3.8,3.4,48680,No formal educational credential,,Short-term on-the-job training
+"        Insulation workers, mechanical",47-2132,Line item,27.2,28.5,1.3,4.7,2.3,57250,High school diploma or equivalent,,Apprenticeship
+"        Painters, construction and maintenance",47-2141,Line item,342.2,355.2,13,3.8,28.1,48660,No formal educational credential,,Moderate-term on-the-job training
+        Paperhangers,47-2142,Line item,2.3,2.5,0.1,5.3,0.2,48260,No formal educational credential,,Long-term on-the-job training
+        Pipelayers,47-2151,Line item,34.4,32.9,-1.4,-4.1,2.4,48710,No formal educational credential,,Short-term on-the-job training
+"        Plumbers, pipefitters, and steamfitters",47-2152,Line item,504.5,527.2,22.7,4.5,44,62970,High school diploma or equivalent,,Apprenticeship
+      Plasterers and stucco masons,47-2161,Line item,24.2,25.2,1,4.1,1.9,56020,No formal educational credential,,Long-term on-the-job training
+      Reinforcing iron and rebar workers,47-2171,Line item,19.4,20.3,0.9,4.6,1.5,59280,High school diploma or equivalent,,Apprenticeship
+      Roofers,47-2181,Line item,166.7,176.5,9.8,5.9,12.7,50970,No formal educational credential,,Moderate-term on-the-job training
+      Sheet metal workers,47-2211,Line item,127,130.1,3.1,2.4,10.6,60850,High school diploma or equivalent,,Apprenticeship
+      Structural iron and steel workers,47-2221,Line item,65.7,68.6,2.9,4.4,5.5,62700,High school diploma or equivalent,,Apprenticeship
+      Solar photovoltaic installers,47-2231,Line item,28.6,40.6,12,42.1,4.1,51860,High school diploma or equivalent,,Moderate-term on-the-job training
+"      Helpers--brickmasons, blockmasons, stonemasons, and tile and marble setters",47-3011,Line item,16.1,14.4,-1.7,-10.5,1.4,46480,No formal educational credential,,Short-term on-the-job training
+      Helpers--carpenters,47-3012,Line item,25.2,26.4,1.1,4.5,2.7,41600,No formal educational credential,,Short-term on-the-job training
+      Helpers--electricians,47-3013,Line item,66.6,66.7,0.1,0.2,6.8,39890,High school diploma or equivalent,,Short-term on-the-job training
+"      Helpers--painters, paperhangers, plasterers, and stucco masons",47-3014,Line item,7.4,7.6,0.2,2.3,0.8,38140,No formal educational credential,,Short-term on-the-job training
+"      Helpers--pipelayers, plumbers, pipefitters, and steamfitters",47-3015,Line item,45.3,47.5,2.2,4.9,4.9,39270,High school diploma or equivalent,,Short-term on-the-job training
+      Helpers--roofers,47-3016,Line item,5.2,5.5,0.3,5.7,0.6,40590,No formal educational credential,,Short-term on-the-job training
+"      Helpers, construction trades, all other",47-3019,Line item,26.3,27.4,1.2,4.4,2.8,40760,No formal educational credential,,Short-term on-the-job training
+      Construction and building inspectors,47-4011,Line item,147.6,146.5,-1.2,-0.8,14.8,72120,High school diploma or equivalent,5 years or more,Moderate-term on-the-job training
+      Elevator and escalator installers and repairers,47-4021,Line item,24.2,25.4,1.2,5,2,106580,High school diploma or equivalent,,Apprenticeship
+      Fence erectors,47-4031,Line item,26.4,27.6,1.2,4.6,2.3,46940,No formal educational credential,,Moderate-term on-the-job training
+      Hazardous materials removal workers,47-4041,Line item,51.3,51.8,0.5,1,5,48490,High school diploma or equivalent,,Moderate-term on-the-job training
+      Highway maintenance workers,47-4051,Line item,159.1,163.9,4.8,3,12.3,49070,High school diploma or equivalent,,Moderate-term on-the-job training
+      Rail-track laying and maintenance equipment operators,47-4061,Line item,15,15.3,0.2,1.6,1.1,67370,High school diploma or equivalent,,Moderate-term on-the-job training
+      Septic tank servicers and sewer pipe cleaners,47-4071,Line item,30.4,32.7,2.3,7.6,2.9,49140,High school diploma or equivalent,,Moderate-term on-the-job training
+      Miscellaneous construction and related workers,47-4090,Line item,35,36.2,1.2,3.5,3.1,48120,High school diploma or equivalent,,Moderate-term on-the-job training
+"        Derrick operators, oil and gas",47-5011,Line item,11.3,11.3,0.1,0.5,1,62740,No formal educational credential,Less than 5 years,Short-term on-the-job training
+"        Rotary drill operators, oil and gas",47-5012,Line item,13.3,13.4,0,0.2,1.2,65010,No formal educational credential,Less than 5 years,Moderate-term on-the-job training
+"        Service unit operators, oil and gas",47-5013,Line item,45.2,45.4,0.2,0.4,4.1,57980,No formal educational credential,Less than 5 years,Moderate-term on-the-job training
+"        Excavating and loading machine and dragline operators, surface mining",47-5022,Line item,35.8,35.6,-0.1,-0.4,3.1,52550,High school diploma or equivalent,Less than 5 years,Moderate-term on-the-job training
+"        Earth drillers, except oil and gas",47-5023,Line item,18.3,18.8,0.5,2.9,1.7,59600,High school diploma or equivalent,Less than 5 years,Long-term on-the-job training
+"      Explosives workers, ordnance handling experts, and blasters",47-5032,Line item,5.8,5.8,-0.1,-0.9,0.5,59110,High school diploma or equivalent,Less than 5 years,Long-term on-the-job training
+        Continuous mining machine operators,47-5041,Line item,14.9,15,0.1,0.6,1.6,63380,No formal educational credential,,Moderate-term on-the-job training
+"        Roof bolters, mining",47-5043,Line item,2.3,1.5,-0.8,-34.2,0.1,76640,High school diploma or equivalent,,Moderate-term on-the-job training
+"        Loading and moving machine operators, underground mining",47-5044,Line item,6.4,5,-1.4,-22.3,0.5,68860,No formal educational credential,,Short-term on-the-job training
+"        Underground mining machine operators, all other",47-5049,Line item,3.6,3.4,-0.2,-6.1,0.4,67220,No formal educational credential,,Moderate-term on-the-job training
+"      Rock splitters, quarry",47-5051,Line item,3.2,3.4,0.1,4.4,0.4,47460,No formal educational credential,,Short-term on-the-job training
+"      Roustabouts, oil and gas",47-5071,Line item,46,47.1,1.1,2.5,4.3,47510,No formal educational credential,,Moderate-term on-the-job training
+      Helpers--extraction workers,47-5081,Line item,7,6.9,-0.1,-1.7,0.7,48400,High school diploma or equivalent,,Moderate-term on-the-job training
+"      Extraction workers, all other",47-5099,Line item,6.3,6.4,0.1,1.4,0.7,50110,High school diploma or equivalent,,Moderate-term on-the-job training
+"      First-line supervisors of mechanics, installers, and repairers",49-1011,Line item,617.5,636.5,19.1,3.1,52.4,78300,High school diploma or equivalent,Less than 5 years,
+"      Computer, automated teller, and office machine repairers",49-2011,Line item,79.1,78.4,-0.7,-0.9,7.6,46860,"Some college, no degree",,Short-term on-the-job training
+"        Radio, cellular, and tower equipment installers and repairers",49-2021,Line item,11.7,12.7,1,8.6,1.2,64190,Associate's degree,,Moderate-term on-the-job training
+"        Telecommunications equipment installers and repairers, except line installers",49-2022,Line item,156.9,150.4,-6.6,-4.2,13.2,62630,Postsecondary nondegree award,,Moderate-term on-the-job training
+        Avionics technicians,49-2091,Line item,21.4,23.1,1.7,8.2,1.8,81390,Postsecondary nondegree award,,
+"        Electric motor, power tool, and related repairers",49-2092,Line item,17.1,17.7,0.6,3.4,1.7,53990,High school diploma or equivalent,Less than 5 years,Moderate-term on-the-job training
+"        Electrical and electronics installers and repairers, transportation equipment",49-2093,Line item,7,7.4,0.4,6.1,0.6,82730,Postsecondary nondegree award,,Long-term on-the-job training
+"        Electrical and electronics repairers, commercial and industrial equipment",49-2094,Line item,61.1,60.7,-0.5,-0.8,4.7,71300,Postsecondary nondegree award,,Long-term on-the-job training
+"        Electrical and electronics repairers, powerhouse, substation, and relay",49-2095,Line item,23.4,24.7,1.3,5.5,2,100940,Postsecondary nondegree award,Less than 5 years,Moderate-term on-the-job training
+"        Electronic equipment installers and repairers, motor vehicles",49-2096,Line item,10.3,8.9,-1.4,-13.6,0.6,47940,High school diploma or equivalent,,Moderate-term on-the-job training
+        Audiovisual equipment installers and repairers,49-2097,Line item,24.6,26.3,1.6,6.6,2.6,50620,Postsecondary nondegree award,,Short-term on-the-job training
+        Security and fire alarm systems installers,49-2098,Line item,85.9,94.9,8.9,10.4,9.4,59300,High school diploma or equivalent,,Moderate-term on-the-job training
+      Aircraft mechanics and service technicians,49-3011,Line item,139.4,145,5.6,4,11.3,78680,Postsecondary nondegree award,,
+        Automotive body and related repairers,49-3021,Line item,172.6,175.4,2.8,1.6,14.6,51680,High school diploma or equivalent,,Long-term on-the-job training
+        Automotive glass installers and repairers,49-3022,Line item,20.4,21.1,0.7,3.6,1.4,47260,High school diploma or equivalent,,Moderate-term on-the-job training
+        Automotive service technicians and mechanics,49-3023,Line item,805.6,839.2,33.6,4.2,70,49670,Postsecondary nondegree award,,Short-term on-the-job training
+      Bus and truck mechanics and diesel engine specialists,49-3031,Line item,319.9,327.7,7.8,2.4,26.5,60640,High school diploma or equivalent,,Long-term on-the-job training
+        Farm equipment mechanics and service technicians,49-3041,Line item,39,43.3,4.3,11,3.7,52080,High school diploma or equivalent,,Long-term on-the-job training
+"        Mobile heavy equipment mechanics, except engines",49-3042,Line item,188.7,199.6,10.9,5.8,16.5,63980,High school diploma or equivalent,,Long-term on-the-job training
+        Rail car repairers,49-3043,Line item,17.9,18.4,0.5,2.8,1.5,65680,High school diploma or equivalent,,Long-term on-the-job training
+        Motorboat mechanics and service technicians,49-3051,Line item,26.2,27.8,1.6,6,2.6,54950,High school diploma or equivalent,,Long-term on-the-job training
+        Motorcycle mechanics,49-3052,Line item,14.9,15.7,0.8,5.3,1.5,47200,Postsecondary nondegree award,,Short-term on-the-job training
+        Outdoor power equipment and other small engine mechanics,49-3053,Line item,36.9,37.8,0.9,2.5,3.5,46560,High school diploma or equivalent,,Moderate-term on-the-job training
+        Bicycle repairers,49-3091,Line item,13.2,12.9,-0.3,-2.3,1.6,40360,High school diploma or equivalent,,Moderate-term on-the-job training
+        Recreational vehicle service technicians,49-3092,Line item,19.5,21.7,2.2,11.5,2.8,50540,High school diploma or equivalent,,Long-term on-the-job training
+        Tire repairers and changers,49-3093,Line item,113.4,119.9,6.5,5.7,15.3,37120,High school diploma or equivalent,,Short-term on-the-job training
+        Mechanical door repairers,49-9011,Line item,28.4,31.7,3.2,11.4,2.7,51050,High school diploma or equivalent,,Moderate-term on-the-job training
+"        Control and valve installers and repairers, except mechanical door",49-9012,Line item,47.7,48.3,0.6,1.3,3.9,74690,High school diploma or equivalent,,Moderate-term on-the-job training
+"      Heating, air conditioning, and refrigeration mechanics and installers",49-9021,Line item,425.2,459.7,34.5,8.1,40.1,59810,Postsecondary nondegree award,,Long-term on-the-job training
+      Home appliance repairers,49-9031,Line item,37.3,38.3,1,2.6,3.1,49410,High school diploma or equivalent,,Moderate-term on-the-job training
+        Industrial machinery mechanics,49-9041,Line item,439.6,510.3,70.7,16.1,45.7,63760,High school diploma or equivalent,,Long-term on-the-job training
+"        Maintenance workers, machinery",49-9043,Line item,57.5,55.9,-1.6,-2.8,4.8,60500,High school diploma or equivalent,,Long-term on-the-job training
+        Millwrights,49-9044,Line item,41.3,41.3,0,0,3.6,65170,High school diploma or equivalent,,Apprenticeship
+"        Refractory materials repairers, except brickmasons",49-9045,Line item,1.1,0.9,-0.2,-16.9,0.1,58540,High school diploma or equivalent,,Moderate-term on-the-job training
+        Electrical power-line installers and repairers,49-9051,Line item,127.4,135.8,8.4,6.6,10.7,92560,High school diploma or equivalent,,Long-term on-the-job training
+        Telecommunications line installers and repairers,49-9052,Line item,99.9,96.8,-3.1,-3.1,8.9,70500,High school diploma or equivalent,,Long-term on-the-job training
+        Camera and photographic equipment repairers,49-9061,Line item,2.3,1.9,-0.3,-15.1,0.2,49300,High school diploma or equivalent,,Long-term on-the-job training
+        Medical equipment repairers,49-9062,Line item,68,76.8,8.8,12.9,7.3,62630,Associate's degree,,Moderate-term on-the-job training
+        Musical instrument repairers and tuners,49-9063,Line item,6.2,6.3,0.1,1.4,0.6,45320,High school diploma or equivalent,,Apprenticeship
+        Watch and clock repairers,49-9064,Line item,1.4,1.4,0,-1.1,0.1,60690,High school diploma or equivalent,,Long-term on-the-job training
+"        Precision instrument and equipment repairers, all other",49-9069,Line item,10.8,11,0.2,2,1,67080,High school diploma or equivalent,,Long-term on-the-job training
+"      Maintenance and repair workers, general",49-9071,Line item,1629.7,1692.1,62.4,3.8,159.8,48620,High school diploma or equivalent,,Moderate-term on-the-job training
+      Wind turbine service technicians,49-9081,Line item,13.6,20.5,6.8,49.9,2.3,62580,Postsecondary nondegree award,,Long-term on-the-job training
+"        Coin, vending, and amusement machine servicers and repairers",49-9091,Line item,32.5,31.6,-0.9,-2.9,3.5,47350,High school diploma or equivalent,,Short-term on-the-job training
+        Commercial divers,49-9092,Line item,4.2,4.5,0.4,8.5,0.4,61130,Postsecondary nondegree award,,Moderate-term on-the-job training
+        Locksmiths and safe repairers,49-9094,Line item,18.8,17.2,-1.6,-8.3,1.7,50490,High school diploma or equivalent,,Long-term on-the-job training
+        Manufactured building and mobile home installers,49-9095,Line item,3.1,3.3,0.2,5.9,0.3,41080,High school diploma or equivalent,,Short-term on-the-job training
+        Riggers,49-9096,Line item,24.6,25.4,0.8,3.2,2.5,62060,High school diploma or equivalent,,Moderate-term on-the-job training
+        Signal and track switch repairers,49-9097,Line item,8.7,8.8,0.1,1.7,0.8,83600,High school diploma or equivalent,,Moderate-term on-the-job training
+"        Helpers--installation, maintenance, and repair workers",49-9098,Line item,98.7,101,2.2,2.3,11.8,38860,High school diploma or equivalent,,Short-term on-the-job training
+"        Installation, maintenance, and repair workers, all other",49-9099,Line item,221.2,226.5,5.4,2.4,21.5,48640,High school diploma or equivalent,,Moderate-term on-the-job training
+      First-line supervisors of production and operating workers,51-1011,Line item,698.6,706.9,8.3,1.2,67.7,71190,High school diploma or equivalent,Less than 5 years,
+"      Aircraft structure, surfaces, rigging, and systems assemblers",51-2011,Line item,33.6,28.7,-4.9,-14.5,2.8,61680,High school diploma or equivalent,,Moderate-term on-the-job training
+"        Coil winders, tapers, and finishers",51-2021,Line item,12.2,11.5,-0.8,-6.3,1.2,47260,High school diploma or equivalent,,Moderate-term on-the-job training
+"        Electrical, electronic, and electromechanical assemblers, except coil winders, tapers, and finishers",51-2028,Line item,261.4,273.3,11.9,4.6,29.6,44040,High school diploma or equivalent,,Moderate-term on-the-job training
+      Engine and other machine assemblers,51-2031,Line item,38.4,30.3,-8.1,-21.1,2.8,52540,High school diploma or equivalent,,Moderate-term on-the-job training
+      Structural metal fabricators and fitters,51-2041,Line item,53.8,45,-8.8,-16.3,4.1,49900,High school diploma or equivalent,,Moderate-term on-the-job training
+      Fiberglass laminators and fabricators,51-2051,Line item,18.6,19.4,0.8,4.2,2.1,45760,High school diploma or equivalent,,Moderate-term on-the-job training
+      Timing device assemblers and adjusters,51-2061,Line item,0.2,0.2,0,-17.5,0,40790,High school diploma or equivalent,,Moderate-term on-the-job training
+      Miscellaneous assemblers and fabricators,51-2090,Line item,1467.1,1465.9,-1.3,-0.1,156.3,42210,High school diploma or equivalent,,Moderate-term on-the-job training
+      Bakers,51-3011,Line item,249.1,263.2,14,5.6,39.9,36650,No formal educational credential,,Moderate-term on-the-job training
+        Butchers and meat cutters,51-3021,Line item,143.1,144.5,1.4,1,16.9,38960,No formal educational credential,,Long-term on-the-job training
+"        Meat, poultry, and fish cutters and trimmers",51-3022,Line item,146.8,154.9,8.1,5.5,18.4,37700,No formal educational credential,,Short-term on-the-job training
+        Slaughterers and meat packers,51-3023,Line item,69.6,71.2,1.5,2.2,8.4,39790,No formal educational credential,,Short-term on-the-job training
+"        Food and tobacco roasting, baking, and drying machine operators and tenders",51-3091,Line item,20.7,20.8,0.1,0.6,2.4,42730,No formal educational credential,,Moderate-term on-the-job training
+        Food batchmakers,51-3092,Line item,173.5,185.4,11.9,6.9,24.2,40790,High school diploma or equivalent,,Moderate-term on-the-job training
+        Food cooking machine operators and tenders,51-3093,Line item,29.7,29.9,0.2,0.6,4.4,40550,High school diploma or equivalent,,Moderate-term on-the-job training
+"        Food processing workers, all other",51-3099,Line item,58.7,61.8,3.1,5.3,6.5,38420,No formal educational credential,,Moderate-term on-the-job training
+"        Extruding and drawing machine setters, operators, and tenders, metal and plastic",51-4021,Line item,66,66.8,0.8,1.2,6.5,46980,High school diploma or equivalent,,Moderate-term on-the-job training
+"        Forging machine setters, operators, and tenders, metal and plastic",51-4022,Line item,8.8,7.2,-1.7,-18.9,0.6,49240,High school diploma or equivalent,,Moderate-term on-the-job training
+"        Rolling machine setters, operators, and tenders, metal and plastic",51-4023,Line item,22.5,20.6,-1.9,-8.3,1.9,48630,High school diploma or equivalent,,Moderate-term on-the-job training
+"        Cutting, punching, and press machine setters, operators, and tenders, metal and plastic",51-4031,Line item,174.7,153.6,-21.1,-12.1,14.4,45590,High school diploma or equivalent,,Moderate-term on-the-job training
+"        Drilling and boring machine tool setters, operators, and tenders, metal and plastic",51-4032,Line item,5.3,4.3,-1,-19.6,0.4,46630,High school diploma or equivalent,,Moderate-term on-the-job training
+"        Grinding, lapping, polishing, and buffing machine tool setters, operators, and tenders, metal and plastic",51-4033,Line item,70.1,61.7,-8.4,-12,5.5,45190,High school diploma or equivalent,,Moderate-term on-the-job training
+"        Lathe and turning machine tool setters, operators, and tenders, metal and plastic",51-4034,Line item,18.9,16.4,-2.6,-13.6,1.5,48620,High school diploma or equivalent,,Moderate-term on-the-job training
+"        Milling and planing machine setters, operators, and tenders, metal and plastic",51-4035,Line item,13.8,11.8,-2,-14.4,1.1,48310,High school diploma or equivalent,,Moderate-term on-the-job training
+      Machinists,51-4041,Line item,299.5,299.6,0,0,29.5,56150,High school diploma or equivalent,,Long-term on-the-job training
+        Metal-refining furnace operators and tenders,51-4051,Line item,20.8,20.3,-0.5,-2.3,2,55770,High school diploma or equivalent,,Moderate-term on-the-job training
+"        Pourers and casters, metal",51-4052,Line item,5.9,5.7,-0.3,-4.7,0.6,48940,High school diploma or equivalent,,Moderate-term on-the-job training
+"        Model makers, metal and plastic",51-4061,Line item,3.2,2.6,-0.6,-18.2,0.3,62700,High school diploma or equivalent,,Moderate-term on-the-job training
+"        Patternmakers, metal and plastic",51-4062,Line item,1.6,1.2,-0.4,-24.4,0.1,54540,High school diploma or equivalent,,Moderate-term on-the-job training
+        Foundry mold and coremakers,51-4071,Line item,12.7,9.4,-3.3,-25.9,0.9,45700,High school diploma or equivalent,,Moderate-term on-the-job training
+"        Molding, coremaking, and casting machine setters, operators, and tenders, metal and plastic",51-4072,Line item,154.6,148.8,-5.8,-3.8,15.9,41230,High school diploma or equivalent,,Moderate-term on-the-job training
+"      Multiple machine tool setters, operators, and tenders, metal and plastic",51-4081,Line item,131,130.3,-0.7,-0.5,12.8,46060,High school diploma or equivalent,,Moderate-term on-the-job training
+      Tool and die makers,51-4111,Line item,55.2,49.3,-6,-10.8,4.7,63180,Postsecondary nondegree award,,Long-term on-the-job training
+"        Welders, cutters, solderers, and brazers",51-4121,Line item,457.3,467.2,9.9,2.2,45.6,51000,High school diploma or equivalent,,Moderate-term on-the-job training
+"        Welding, soldering, and brazing machine setters, operators, and tenders",51-4122,Line item,38.9,35.4,-3.5,-9,3.2,47060,High school diploma or equivalent,,Moderate-term on-the-job training
+"        Heat treating equipment setters, operators, and tenders, metal and plastic",51-4191,Line item,14.8,12.9,-1.9,-12.8,1.2,47450,High school diploma or equivalent,,Moderate-term on-the-job training
+"        Layout workers, metal and plastic",51-4192,Line item,5.7,5.4,-0.3,-5.4,0.5,61870,High school diploma or equivalent,,Moderate-term on-the-job training
+"        Plating machine setters, operators, and tenders, metal and plastic",51-4193,Line item,31.7,27.4,-4.3,-13.6,2.5,41600,High school diploma or equivalent,,Moderate-term on-the-job training
+"        Tool grinders, filers, and sharpeners",51-4194,Line item,5.8,5.4,-0.5,-7.8,0.5,48970,High school diploma or equivalent,,Moderate-term on-the-job training
+"        Metal workers and plastic workers, all other",51-4199,Line item,20.4,18.5,-1.9,-9.5,1.7,42750,High school diploma or equivalent,,Moderate-term on-the-job training
+      Prepress technicians and workers,51-5111,Line item,26.2,22.3,-3.8,-14.6,2.8,47300,Postsecondary nondegree award,,
+      Printing press operators,51-5112,Line item,150.2,138,-12.2,-8.1,13.7,45160,High school diploma or equivalent,,Moderate-term on-the-job training
+      Print binding and finishing workers,51-5113,Line item,35.8,30,-5.8,-16.1,2.8,39820,High school diploma or equivalent,,Moderate-term on-the-job training
+      Laundry and dry-cleaning workers,51-6011,Line item,202.6,213.5,10.9,5.4,31.9,33800,No formal educational credential,,Short-term on-the-job training
+"      Pressers, textile, garment, and related materials",51-6021,Line item,28.4,24.6,-3.8,-13.5,2.8,33880,No formal educational credential,,Short-term on-the-job training
+      Sewing machine operators,51-6031,Line item,124,110.7,-13.3,-10.8,13,36000,No formal educational credential,,Short-term on-the-job training
+        Shoe and leather workers and repairers,51-6041,Line item,9.5,9.1,-0.4,-3.8,0.9,35950,High school diploma or equivalent,,Moderate-term on-the-job training
+        Shoe machine operators and tenders,51-6042,Line item,4.1,3.9,-0.2,-3.7,0.4,38160,High school diploma or equivalent,,Short-term on-the-job training
+"        Sewers, hand",51-6051,Line item,5.4,5,-0.4,-7,0.7,33760,No formal educational credential,,Moderate-term on-the-job training
+"        Tailors, dressmakers, and custom sewers",51-6052,Line item,38.8,37.1,-1.7,-4.5,5,40860,No formal educational credential,,Moderate-term on-the-job training
+        Textile bleaching and dyeing machine operators and tenders,51-6061,Line item,6.2,5.5,-0.6,-10.1,0.7,37320,High school diploma or equivalent,,Short-term on-the-job training
+"        Textile cutting machine setters, operators, and tenders",51-6062,Line item,9.3,8.2,-1.1,-11.7,1,37940,High school diploma or equivalent,,Moderate-term on-the-job training
+"        Textile knitting and weaving machine setters, operators, and tenders",51-6063,Line item,15.3,13.6,-1.7,-11.2,1.7,38260,High school diploma or equivalent,,Short-term on-the-job training
+"        Textile winding, twisting, and drawing out machine setters, operators, and tenders",51-6064,Line item,21.7,19.8,-1.9,-9,2.5,37660,High school diploma or equivalent,,Moderate-term on-the-job training
+"        Extruding and forming machine setters, operators, and tenders, synthetic and glass fibers",51-6091,Line item,15.2,15,-0.2,-1.1,2,44980,High school diploma or equivalent,,Moderate-term on-the-job training
+        Fabric and apparel patternmakers,51-6092,Line item,2.8,2.5,-0.3,-10.2,0.3,67670,High school diploma or equivalent,,Moderate-term on-the-job training
+        Upholsterers,51-6093,Line item,22.7,22.3,-0.4,-1.8,2.2,46190,High school diploma or equivalent,,Moderate-term on-the-job training
+"        Textile, apparel, and furnishings workers, all other",51-6099,Line item,14.7,13.3,-1.4,-9.4,1.7,37010,High school diploma or equivalent,,Short-term on-the-job training
+      Cabinetmakers and bench carpenters,51-7011,Line item,86,84.7,-1.4,-1.6,8.1,46020,High school diploma or equivalent,,Moderate-term on-the-job training
+      Furniture finishers,51-7021,Line item,20.5,19.8,-0.7,-3.3,2,42530,High school diploma or equivalent,,Short-term on-the-job training
+"        Model makers, wood",51-7031,Line item,0.9,0.9,0,-4.5,0.1,51850,High school diploma or equivalent,,Moderate-term on-the-job training
+"        Patternmakers, wood",51-7032,Line item,0.5,0.4,0,-5,0,52520,High school diploma or equivalent,,Moderate-term on-the-job training
+"        Sawing machine setters, operators, and tenders, wood",51-7041,Line item,45,44.7,-0.3,-0.6,4.8,39950,High school diploma or equivalent,,Moderate-term on-the-job training
+"        Woodworking machine setters, operators, and tenders, except sawing",51-7042,Line item,63.1,61.9,-1.1,-1.8,6.4,40440,High school diploma or equivalent,,Moderate-term on-the-job training
+"      Woodworkers, all other",51-7099,Line item,17.6,16.8,-0.8,-4.4,1.8,41220,High school diploma or equivalent,,Moderate-term on-the-job training
+        Nuclear power reactor operators,51-8011,Line item,5.7,4.9,-0.9,-15.3,0.4,122610,High school diploma or equivalent,,Long-term on-the-job training
+        Power distributors and dispatchers,51-8012,Line item,9.3,9,-0.3,-3.2,0.8,107240,High school diploma or equivalent,,Long-term on-the-job training
+        Power plant operators,51-8013,Line item,31.6,28,-3.5,-11.2,2.5,99670,High school diploma or equivalent,,Long-term on-the-job training
+      Stationary engineers and boiler operators,51-8021,Line item,33.3,34,0.7,2.2,3.8,75190,High school diploma or equivalent,,Long-term on-the-job training
+      Water and wastewater treatment plant and system operators,51-8031,Line item,132.4,123.8,-8.7,-6.5,10.7,58260,High school diploma or equivalent,,Long-term on-the-job training
+        Chemical plant and system operators,51-8091,Line item,18.1,17,-1.1,-6.1,1.6,73540,High school diploma or equivalent,,Moderate-term on-the-job training
+        Gas plant operators,51-8092,Line item,16.2,14.8,-1.4,-8.8,1.3,83400,High school diploma or equivalent,,Long-term on-the-job training
+"        Petroleum pump system operators, refinery operators, and gaugers",51-8093,Line item,34.9,34,-1,-2.8,3.2,97540,High school diploma or equivalent,,Moderate-term on-the-job training
+"        Plant and system operators, all other",51-8099,Line item,16.3,16.6,0.3,1.6,1.6,61710,High school diploma or equivalent,,Moderate-term on-the-job training
+        Chemical equipment operators and tenders,51-9011,Line item,128.9,133.1,4.3,3.3,14.4,57090,High school diploma or equivalent,,Moderate-term on-the-job training
+"        Separating, filtering, clarifying, precipitating, and still machine setters, operators, and tenders",51-9012,Line item,54.4,52,-2.3,-4.3,5.4,49500,High school diploma or equivalent,,Moderate-term on-the-job training
+"        Crushing, grinding, and polishing machine setters, operators, and tenders",51-9021,Line item,28.7,27.9,-0.7,-2.5,2.7,46890,High school diploma or equivalent,,Moderate-term on-the-job training
+"        Grinding and polishing workers, hand",51-9022,Line item,11.8,9.3,-2.5,-21.2,0.8,41690,No formal educational credential,,Moderate-term on-the-job training
+"        Mixing and blending machine setters, operators, and tenders",51-9023,Line item,101.1,94.3,-6.8,-6.8,8.8,47680,High school diploma or equivalent,,Moderate-term on-the-job training
+"        Cutters and trimmers, hand",51-9031,Line item,7,5.7,-1.3,-18.1,0.6,38800,No formal educational credential,,Short-term on-the-job training
+"        Cutting and slicing machine setters, operators, and tenders",51-9032,Line item,49,47.9,-1.1,-2.3,5.3,45700,High school diploma or equivalent,,Moderate-term on-the-job training
+"      Extruding, forming, pressing, and compacting machine setters, operators, and tenders",51-9041,Line item,57.3,58.4,1.1,2,5.2,45130,High school diploma or equivalent,,Moderate-term on-the-job training
+"      Furnace, kiln, oven, drier, and kettle operators and tenders",51-9051,Line item,16.5,17,0.5,3,1.9,47010,High school diploma or equivalent,,Moderate-term on-the-job training
+"      Inspectors, testers, sorters, samplers, and weighers",51-9061,Line item,598,598.1,0.1,0,69.9,47460,High school diploma or equivalent,,Moderate-term on-the-job training
+      Jewelers and precious stone and metal workers,51-9071,Line item,35.1,33.2,-1.9,-5.5,4,49140,High school diploma or equivalent,,Long-term on-the-job training
+        Dental laboratory technicians,51-9081,Line item,35.2,33.6,-1.6,-4.7,3.9,48310,High school diploma or equivalent,,Moderate-term on-the-job training
+        Medical appliance technicians,51-9082,Line item,12,12.4,0.4,3.7,1.5,47060,High school diploma or equivalent,,Moderate-term on-the-job training
+        Ophthalmic laboratory technicians,51-9083,Line item,19.6,20,0.5,2.3,2.4,38420,High school diploma or equivalent,,Moderate-term on-the-job training
+      Packaging and filling machine operators and tenders,51-9111,Line item,381.2,398.2,17,4.5,45.3,40900,High school diploma or equivalent,,Moderate-term on-the-job training
+"        Painting, coating, and decorating workers",51-9123,Line item,8.8,8.9,0.1,1.4,0.8,40860,No formal educational credential,,Moderate-term on-the-job training
+"        Coating, painting, and spraying machine setters, operators, and tenders",51-9124,Line item,165.5,166.7,1.2,0.7,15.8,47590,High school diploma or equivalent,,Moderate-term on-the-job training
+      Semiconductor processing technicians,51-9141,Line item,31.9,35.4,3.5,10.9,3.9,51180,High school diploma or equivalent,,Moderate-term on-the-job training
+      Photographic process workers and processing machine operators,51-9151,Line item,11.2,10.9,-0.3,-2.6,1.5,40100,High school diploma or equivalent,,Short-term on-the-job training
+        Computer numerically controlled tool operators,51-9161,Line item,177.1,158.1,-19,-10.7,13.5,49970,High school diploma or equivalent,,Moderate-term on-the-job training
+        Computer numerically controlled tool programmers,51-9162,Line item,28.3,31.9,3.6,12.8,3.1,65670,Postsecondary nondegree award,,Moderate-term on-the-job training
+        Adhesive bonding machine operators and tenders,51-9191,Line item,12.2,12.3,0.1,1,1.3,45210,High school diploma or equivalent,,Moderate-term on-the-job training
+"        Cleaning, washing, and metal pickling equipment operators and tenders",51-9192,Line item,14.6,15.2,0.5,3.6,1.6,41460,High school diploma or equivalent,,Moderate-term on-the-job training
+        Cooling and freezing equipment operators and tenders,51-9193,Line item,7.1,7.6,0.5,7.2,0.8,40160,High school diploma or equivalent,,Moderate-term on-the-job training
+        Etchers and engravers,51-9194,Line item,8.6,8.6,-0.1,-0.7,0.9,40450,High school diploma or equivalent,,Moderate-term on-the-job training
+"        Molders, shapers, and casters, except metal and plastic",51-9195,Line item,41.7,44.3,2.6,6.2,5.5,45690,High school diploma or equivalent,,Long-term on-the-job training
+"        Paper goods machine setters, operators, and tenders",51-9196,Line item,97.5,91.4,-6.1,-6.3,8.1,49390,High school diploma or equivalent,,Moderate-term on-the-job training
+        Tire builders,51-9197,Line item,20.9,21.4,0.5,2.3,2.5,55580,High school diploma or equivalent,,Moderate-term on-the-job training
+        Helpers--production workers,51-9198,Line item,168.5,153.5,-15,-8.9,23.6,38220,High school diploma or equivalent,,Short-term on-the-job training
+"        Production workers, all other",51-9199,Line item,292.8,294.3,1.5,0.5,31.6,38820,High school diploma or equivalent,,Moderate-term on-the-job training
+      Aircraft cargo handling supervisors,53-1041,Line item,10.3,10.8,0.5,5.2,1.1,63940,High school diploma or equivalent,Less than 5 years,
+"      First-line supervisors of transportation and material moving workers, except aircraft cargo handling supervisors",53-1047,Line item,609.6,632.2,22.5,3.7,61.3,61890,High school diploma or equivalent,Less than 5 years,
+"        Airline pilots, copilots, and flight engineers",53-2011,Line item,100,103.9,3.9,3.9,11.7,226600,Bachelor's degree,Less than 5 years,Moderate-term on-the-job training
+        Commercial pilots,53-2012,Line item,55.4,58.3,2.8,5.1,6.6,122670,Postsecondary nondegree award,,Moderate-term on-the-job training
+        Air traffic controllers,53-2021,Line item,24.1,24.4,0.3,1.2,2.2,144580,Associate's degree,,Long-term on-the-job training
+        Airfield operations specialists,53-2022,Line item,16.9,17.6,0.7,4.2,1.6,56750,High school diploma or equivalent,,Long-term on-the-job training
+      Flight attendants,53-2031,Line item,130.8,142.9,12.1,9.2,19.8,67130,High school diploma or equivalent,Less than 5 years,Moderate-term on-the-job training
+"      Ambulance drivers and attendants, except emergency medical technicians",53-3011,Line item,12.3,12.1,-0.2,-1.3,1.4,34330,High school diploma or equivalent,,Moderate-term on-the-job training
+        Driver/sales workers,53-3031,Line item,451.5,491.3,39.8,8.8,51.3,37130,High school diploma or equivalent,,Short-term on-the-job training
+        Heavy and tractor-trailer truck drivers,53-3032,Line item,2235.1,2324.4,89.3,4,237.6,57440,Postsecondary nondegree award,,Short-term on-the-job training
+        Light truck drivers,53-3033,Line item,1079.8,1158.6,78.9,7.3,120.2,44140,High school diploma or equivalent,,Short-term on-the-job training
+"        Bus drivers, school",53-3051,Line item,387.3,388.2,0.9,0.2,61,47040,High school diploma or equivalent,,Short-term on-the-job training
+"        Bus drivers, transit and intercity",53-3052,Line item,158.8,165.6,6.8,4.3,20.9,57440,High school diploma or equivalent,,Moderate-term on-the-job training
+        Shuttle drivers and chauffeurs,53-3053,Line item,243.9,260.3,16.4,6.7,36.3,36670,No formal educational credential,,Short-term on-the-job training
+        Taxi drivers,53-3054,Line item,204,226.6,22.6,11.1,22.6,36220,No formal educational credential,,Short-term on-the-job training
+"      Motor vehicle operators, all other",53-3099,Line item,79.3,84,4.7,6,11.1,36260,No formal educational credential,,Short-term on-the-job training
+        Locomotive engineers,53-4011,Line item,27,27.2,0.2,0.7,2.2,77400,High school diploma or equivalent,Less than 5 years,Moderate-term on-the-job training
+"        Rail yard engineers, dinkey operators, and hostlers",53-4013,Line item,3.1,3.1,0,0.3,0.2,58030,High school diploma or equivalent,,Moderate-term on-the-job training
+"      Railroad brake, signal, and switch operators and locomotive firers",53-4022,Line item,11,11.1,0.1,1,1,65480,High school diploma or equivalent,,Moderate-term on-the-job training
+      Railroad conductors and yardmasters,53-4031,Line item,36.8,37.2,0.4,1.1,3.1,74080,High school diploma or equivalent,,Moderate-term on-the-job training
+      Subway and streetcar operators,53-4041,Line item,9.6,9.9,0.3,3.4,0.9,84830,High school diploma or equivalent,,Moderate-term on-the-job training
+"      Rail transportation workers, all other",53-4099,Line item,1.6,1.6,0.1,3.9,0.2,49330,High school diploma or equivalent,,Moderate-term on-the-job training
+      Sailors and marine oilers,53-5011,Line item,32.1,32.8,0.7,2.3,3.9,49610,No formal educational credential,,Moderate-term on-the-job training
+"        Captains, mates, and pilots of water vessels",53-5021,Line item,40.7,40.9,0.2,0.5,4.3,85540,Postsecondary nondegree award,Less than 5 years,
+        Motorboat operators,53-5022,Line item,2.7,2.8,0,1.4,0.3,51880,Postsecondary nondegree award,Less than 5 years,
+      Ship engineers,53-5031,Line item,8.8,9,0.1,1.6,1.1,101320,Postsecondary nondegree award,Less than 5 years,
+      Bridge and lock tenders,53-6011,Line item,2.9,2.8,-0.1,-3.3,0.3,58490,High school diploma or equivalent,,Short-term on-the-job training
+      Parking attendants,53-6021,Line item,135.7,139.8,4,3,18.5,34600,No formal educational credential,,Short-term on-the-job training
+        Automotive and watercraft service attendants,53-6031,Line item,100,99,-1,-1,14.4,34850,No formal educational credential,,Short-term on-the-job training
+        Aircraft service attendants,53-6032,Line item,28,29.5,1.4,5.1,4.3,41540,High school diploma or equivalent,,Short-term on-the-job training
+      Traffic technicians,53-6041,Line item,7.9,8.2,0.3,3.7,0.8,58480,High school diploma or equivalent,,Moderate-term on-the-job training
+      Transportation inspectors,53-6051,Line item,25.7,26.1,0.4,1.7,2.5,85750,High school diploma or equivalent,,Moderate-term on-the-job training
+      Passenger attendants,53-6061,Line item,25.6,26.8,1.2,4.7,4.1,37560,High school diploma or equivalent,,Short-term on-the-job training
+"      Transportation workers, all other",53-6099,Line item,11.5,11.9,0.4,3.8,1.2,39630,High school diploma or equivalent,,Short-term on-the-job training
+      Conveyor operators and tenders,53-7011,Line item,29.1,28.1,-1,-3.4,2.6,41230,No formal educational credential,,Short-term on-the-job training
+      Crane and tower operators,53-7021,Line item,42.3,43.5,1.3,3,3.8,66370,High school diploma or equivalent,Less than 5 years,Moderate-term on-the-job training
+      Dredge operators,53-7031,Line item,1.1,1.2,0,1.2,0.1,48430,High school diploma or equivalent,,Moderate-term on-the-job training
+      Hoist and winch operators,53-7041,Line item,2.7,2.7,0,-1.1,0.3,52310,No formal educational credential,,Short-term on-the-job training
+      Industrial truck and tractor operators,53-7051,Line item,792.5,801.6,9.1,1.1,76.4,46390,No formal educational credential,,Short-term on-the-job training
+        Cleaners of vehicles and equipment,53-7061,Line item,410.1,426.2,16,3.9,56.2,35270,No formal educational credential,,Short-term on-the-job training
+"        Laborers and freight, stock, and material movers, hand",53-7062,Line item,2988.9,3033.1,44.3,1.5,384.3,38940,No formal educational credential,,Short-term on-the-job training
+        Machine feeders and offbearers,53-7063,Line item,46.5,40.4,-6,-13,4.7,39700,No formal educational credential,,Short-term on-the-job training
+"        Packers and packagers, hand",53-7064,Line item,591.8,559.7,-32.2,-5.4,74,35580,No formal educational credential,,Short-term on-the-job training
+        Stockers and order fillers,53-7065,Line item,2764.8,2999.8,235,8.5,472.3,37090,No formal educational credential,,Short-term on-the-job training
+        Gas compressor and gas pumping station operators,53-7071,Line item,5.4,5.3,-0.1,-1.3,0.6,71510,High school diploma or equivalent,,Moderate-term on-the-job training
+"        Pump operators, except wellhead pumpers",53-7072,Line item,13.1,13.5,0.3,2.6,1.5,60020,High school diploma or equivalent,,Moderate-term on-the-job training
+        Wellhead pumpers,53-7073,Line item,18.8,17.9,-0.9,-4.7,2,70010,High school diploma or equivalent,Less than 5 years,Moderate-term on-the-job training
+      Refuse and recyclable material collectors,53-7081,Line item,147.9,149.2,1.3,0.9,16.9,48350,No formal educational credential,,Short-term on-the-job training
+"      Tank car, truck, and ship loaders",53-7121,Line item,12,12.5,0.5,4.3,1.3,58070,No formal educational credential,,Short-term on-the-job training
+"      Material moving workers, all other",53-7199,Line item,27.7,28.9,1.2,4.3,3.1,41690,No formal educational credential,,Short-term on-the-job training
